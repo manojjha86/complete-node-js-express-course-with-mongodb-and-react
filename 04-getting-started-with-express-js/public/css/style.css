@@ -1,0 +1,7 @@
+.container-card{
+    margin: 30px auto;
+    width: 560px;
+    padding: 20px 20px;
+    border: #dedede 1.5px solid;
+    font-family: 'Lucida Sans', sans-serif;
+}
