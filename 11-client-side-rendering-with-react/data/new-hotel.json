@@ -1,0 +1,94 @@
+[
+  {
+    "name": "sunrise grand hotel",
+    "description": "a comfortable hotel located near the city center with modern amenities",
+    "type": "hotel",
+    "category": ["business", "family"],
+    "city": "new delhi",
+    "address": {
+      "addressLine1": "plot no 21 main road",
+      "addressLine2": "sector 18",
+      "landmark": "near metro station",
+      "zipCode": "110001",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2167, 28.6448]
+      }
+    },
+    "distance": "12 km from airport",
+    "images": [],
+    "ratings": 4.2,
+    "rooms": [],
+    "cheapestPrice": 250,
+    "featured": true
+  },
+  {
+    "name": "ocean breeze resort",
+    "description": "a beachside resort offering scenic views and relaxing stays",
+    "type": "resort",
+    "category": ["luxury", "beach"],
+    "city": "goa",
+    "address": {
+      "addressLine1": "calangute beach road",
+      "addressLine2": "",
+      "landmark": "near beach shack",
+      "zipCode": "403516",
+      "location": {
+        "type": "Point",
+        "coordinates": [73.7553, 15.544]
+      }
+    },
+    "distance": "40 km from airport",
+    "images": [],
+    "ratings": 4.6,
+    "rooms": [],
+    "cheapestPrice": 750,
+    "featured": true
+  },
+  {
+    "name": "green valley villa",
+    "description": "a peaceful villa surrounded by hills and greenery",
+    "type": "villa",
+    "category": ["nature", "couple"],
+    "city": "manali",
+    "address": {
+      "addressLine1": "village vashisht road",
+      "addressLine2": "",
+      "landmark": "near hot springs",
+      "zipCode": "175131",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.1892, 32.2396]
+      }
+    },
+    "distance": "52 km from airport",
+    "images": [],
+    "ratings": 4.8,
+    "rooms": [],
+    "cheapestPrice": 600,
+    "featured": false
+  },
+  {
+    "name": "urban stay apartment",
+    "description": "a modern apartment ideal for long stays and working professionals",
+    "type": "apartment",
+    "category": ["business", "long stay"],
+    "city": "bengaluru",
+    "address": {
+      "addressLine1": "whitefield main road",
+      "addressLine2": "phase 2",
+      "landmark": "near it park",
+      "zipCode": "560066",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.7499, 12.9698]
+      }
+    },
+    "distance": "38 km from airport",
+    "images": [],
+    "ratings": 4.0,
+    "rooms": [],
+    "cheapestPrice": 180,
+    "featured": false
+  }
+]
