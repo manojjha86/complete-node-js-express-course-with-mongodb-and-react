@@ -1,0 +1,34 @@
+[
+  {
+    "title": "standard double room",
+    "description": "a comfortable room with one double bed and basic amenities",
+    "price": 120,
+    "maxPerson": 2,
+    "roomNumber": 101,
+    "bookedDates": []
+  },
+  {
+    "title": "deluxe king room",
+    "description": "a spacious room with a king size bed and city view",
+    "price": 220,
+    "maxPerson": 2,
+    "roomNumber": 202,
+    "bookedDates": []
+  },
+  {
+    "title": "family suite",
+    "description": "large suite suitable for families with multiple beds",
+    "price": 350,
+    "maxPerson": 5,
+    "roomNumber": 305,
+    "bookedDates": []
+  },
+  {
+    "title": "single economy room",
+    "description": "budget friendly room ideal for solo travelers",
+    "price": 90,
+    "maxPerson": 1,
+    "roomNumber": 410,
+    "bookedDates": []
+  }
+]

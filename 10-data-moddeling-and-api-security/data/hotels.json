@@ -1,0 +1,497 @@
+[
+  {
+    "name": "The Taj Mahal Palace, Mumbai",
+    "description": "An iconic luxury hotel in Mumbai overlooking the Arabian Sea, known for its historic architecture, exceptional service, and multiple dining options.",
+    "type": "Hotel",
+    "category": [
+      "Historic",
+      "Luxury",
+      "Urban"
+    ],
+    "city": "Mumbai",
+    "address": "Apollo Bunder, Colaba, Mumbai, Maharashtra 400001",
+    "distance": "16 miles from Chhatrapati Shivaji Maharaj International Airport (BOM)",
+    "cheapestPrice": 250,
+    "ratings": 4.7
+  },
+  {
+    "name": "The Oberoi, Mumbai",
+    "description": "This elegant hotel offers sweeping views of the Arabian Sea and Marine Drive, featuring spacious rooms and fine dining.",
+    "type": "Hotel",
+    "category": [
+      "Luxury",
+      "Urban",
+      "Business"
+    ],
+    "city": "Mumbai",
+    "address": "Nariman Point, Mumbai, Maharashtra 400021",
+    "distance": "14 miles from Chhatrapati Shivaji Maharaj International Airport (BOM)",
+    "cheapestPrice": 280,
+    "ratings": 4.6
+  },
+  {
+    "name": "Trident, Nariman Point, Mumbai",
+    "description": "A luxury hotel on Marine Drive, offering stunning ocean views, a rooftop pool, and a range of international and local cuisine.",
+    "type": "Hotel",
+    "category": [
+      "Luxury",
+      "Urban",
+      "View"
+    ],
+    "city": "Mumbai",
+    "address": "Marine Drive, Nariman Point, Mumbai, Maharashtra 400021",
+    "distance": "15 miles from Chhatrapati Shivaji Maharaj International Airport (BOM)",
+    "cheapestPrice": 220,
+    "ratings": 4.5
+  },
+  {
+    "name": "The St. Regis Mumbai",
+    "description": "Located in Lower Parel, this hotel offers sophisticated luxury with a butler service, gourmet restaurants, and a well-equipped spa.",
+    "type": "Hotel",
+    "category": [
+      "Luxury",
+      "Urban",
+      "Business"
+    ],
+    "city": "Mumbai",
+    "address": "462 Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013",
+    "distance": "9 miles from Chhatrapati Shivaji Maharaj International Airport (BOM)",
+    "cheapestPrice": 300,
+    "ratings": 4.7
+  },
+  {
+    "name": "The Leela Palace, New Delhi",
+    "description": "A modern palace hotel in the heart of New Delhi's diplomatic enclave, featuring opulent interiors, award-winning restaurants, and a rooftop infinity pool.",
+    "type": "Hotel",
+    "category": [
+      "Luxury",
+      "Urban",
+      "Business"
+    ],
+    "city": "New Delhi",
+    "address": "Africa Avenue, Chanakyapuri, New Delhi, Delhi 110023",
+    "distance": "7 miles from Indira Gandhi International Airport (DEL)",
+    "cheapestPrice": 230,
+    "ratings": 4.6
+  },
+  {
+    "name": "The Imperial, New Delhi",
+    "description": "An architectural masterpiece that epitomizes the grandeur of India's rich history, offering a blend of Victorian, Art Deco, and colonial charm.",
+    "type": "Hotel",
+    "category": [
+      "Historic",
+      "Luxury",
+      "Urban"
+    ],
+    "city": "New Delhi",
+    "address": "Janpath Lane, Connaught Place, New Delhi, Delhi 110001",
+    "distance": "9 miles from Indira Gandhi International Airport (DEL)",
+    "cheapestPrice": 200,
+    "ratings": 4.7
+  },
+  {
+    "name": "The Oberoi, New Delhi",
+    "description": "A recently renovated hotel with a unique blend of a warm atmosphere and 5-star amenities, offering a tranquil retreat in the city.",
+    "type": "Hotel",
+    "category": [
+      "Luxury",
+      "Urban",
+      "Business"
+    ],
+    "city": "New Delhi",
+    "address": "Dr. Zakir Hussain Marg, New Delhi, Delhi 110003",
+    "distance": "9 miles from Indira Gandhi International Airport (DEL)",
+    "cheapestPrice": 260,
+    "ratings": 4.7
+  },
+  {
+    "name": "Rambagh Palace, Jaipur",
+    "description": "A former royal residence of the Maharaja of Jaipur, this historic hotel offers a blend of classic elegance and modern luxury, set amidst landscaped gardens.",
+    "type": "Hotel",
+    "category": [
+      "Historic",
+      "Palace",
+      "Luxury"
+    ],
+    "city": "Jaipur",
+    "address": "Bhawani Singh Road, Rambagh, Jaipur, Rajasthan 302005",
+    "distance": "6 miles from Jaipur International Airport (JAI)",
+    "cheapestPrice": 500,
+    "ratings": 4.8
+  },
+  {
+    "name": "The Leela Palace, Jaipur",
+    "description": "A modern palace hotel that reflects the grandeur of Rajasthan's royal heritage, offering stunning architecture, exquisite dining, and a serene spa.",
+    "type": "Hotel",
+    "category": [
+      "Luxury",
+      "Palace",
+      "Resort"
+    ],
+    "city": "Jaipur",
+    "address": "Jaipur-Delhi National Highway, NH11, Jaipur, Rajasthan 302028",
+    "distance": "14 miles from Jaipur International Airport (JAI)",
+    "cheapestPrice": 350,
+    "ratings": 4.6
+  },
+  {
+    "name": "The Oberoi Rajvilas, Jaipur",
+    "description": "Set in a breathtaking thirty-two acre oasis of landscaped gardens, this resort features tented villas, a spa, and a pool, reflecting the grandeur of a Rajasthani fort.",
+    "type": "Resort",
+    "category": [
+      "Luxury",
+      "Resort",
+      "Palace"
+    ],
+    "city": "Jaipur",
+    "address": "Goner Rd, Jaipur, Rajasthan 303012",
+    "distance": "10 miles from Jaipur International Airport (JAI)",
+    "cheapestPrice": 550,
+    "ratings": 4.7
+  },
+  {
+    "name": "Umaid Bhawan Palace, Jodhpur",
+    "description": "The last of the great palaces of India, this magnificent residence is a blend of Art Deco and Rajput styles, with a museum and stunning views of Jodhpur.",
+    "type": "Hotel",
+    "category": [
+      "Historic",
+      "Palace",
+      "Luxury"
+    ],
+    "city": "Jodhpur",
+    "address": "Circuit House Rd, Jodhpur, Rajasthan 342006",
+    "distance": "5 miles from Jodhpur Airport (JDH)",
+    "cheapestPrice": 600,
+    "ratings": 4.8
+  },
+  {
+    "name": "Ajit Bhawan - A Palace Resort, Jodhpur",
+    "description": "A heritage resort that was the former home of the Maharaja's younger brother, offering a blend of royal hospitality and a modern luxury resort experience.",
+    "type": "Resort",
+    "category": [
+      "Historic",
+      "Palace",
+      "Resort"
+    ],
+    "city": "Jodhpur",
+    "address": "Circuit House Rd, Jodhpur, Rajasthan 342006",
+    "distance": "4 miles from Jodhpur Airport (JDH)",
+    "cheapestPrice": 150,
+    "ratings": 4.5
+  },
+  {
+    "name": "The Oberoi Udaivilas, Udaipur",
+    "description": "A magnificent resort on the banks of Lake Pichola, styled after the palaces of Rajasthan with intricate architecture, beautiful courtyards, and stunning lake views.",
+    "type": "Resort",
+    "category": [
+      "Palace",
+      "Luxury",
+      "Resort"
+    ],
+    "city": "Udaipur",
+    "address": "Haridas Ji Ki Magri, Mulla Talai, Udaipur, Rajasthan 313001",
+    "distance": "17 miles from Maharana Pratap Airport (UDR)",
+    "cheapestPrice": 650,
+    "ratings": 4.8
+  },
+  {
+    "name": "Taj Lake Palace, Udaipur",
+    "description": "A floating marvel in the middle of Lake Pichola, this 18th-century palace hotel offers an unparalleled romantic experience with exquisite rooms and a magical ambiance.",
+    "type": "Hotel",
+    "category": [
+      "Historic",
+      "Luxury",
+      "Palace"
+    ],
+    "city": "Udaipur",
+    "address": "P.O. Box No. 5, Lake Pichola, Udaipur, Rajasthan 313001",
+    "distance": "16 miles from Maharana Pratap Airport (UDR)",
+    "cheapestPrice": 800,
+    "ratings": 4.9
+  },
+  {
+    "name": "The Leela Palace, Udaipur",
+    "description": "A modern palace hotel on the shores of Lake Pichola, offering a blend of traditional Rajasthani architecture and contemporary luxury with stunning lake views.",
+    "type": "Hotel",
+    "category": [
+      "Luxury",
+      "Palace",
+      "Urban"
+    ],
+    "city": "Udaipur",
+    "address": "Lake Pichola, Udaipur, Rajasthan 313001",
+    "distance": "17 miles from Maharana Pratap Airport (UDR)",
+    "cheapestPrice": 750,
+    "ratings": 4.8
+  },
+  {
+    "name": "ITC Grand Chola, Chennai",
+    "description": "A luxury hotel inspired by the Chola dynasty, offering a majestic and grand experience with its impressive architecture and a wide range of amenities.",
+    "type": "Hotel",
+    "category": [
+      "Luxury",
+      "Urban",
+      "Business"
+    ],
+    "city": "Chennai",
+    "address": "63, Anna Salai, Guindy, Chennai, Tamil Nadu 600032",
+    "distance": "6 miles from Chennai International Airport (MAA)",
+    "cheapestPrice": 180,
+    "ratings": 4.6
+  },
+  {
+    "name": "The Leela Palace, Chennai",
+    "description": "Situated on the banks of the Adyar River, this palace hotel offers serene views, a luxurious spa, and fine dining, blending modern design with traditional motifs.",
+    "type": "Hotel",
+    "category": [
+      "Luxury",
+      "Urban",
+      "Riverside"
+    ],
+    "city": "Chennai",
+    "address": "Adyar Seaface, Leela Palace Road, Chennai, Tamil Nadu 600028",
+    "distance": "9 miles from Chennai International Airport (MAA)",
+    "cheapestPrice": 200,
+    "ratings": 4.7
+  },
+  {
+    "name": "Park Hyatt Chennai",
+    "description": "A stylish and modern hotel located near the Guindy Forest, offering a tranquil retreat with a beautiful rooftop infinity pool and a well-regarded spa.",
+    "type": "Hotel",
+    "category": [
+      "Luxury",
+      "Urban",
+      "Business"
+    ],
+    "city": "Chennai",
+    "address": "39 Velachery Main Road, Guindy, Chennai, Tamil Nadu 600032",
+    "distance": "6 miles from Chennai International Airport (MAA)",
+    "cheapestPrice": 150,
+    "ratings": 4.5
+  },
+  {
+    "name": "The Oberoi, Bengaluru",
+    "description": "A luxurious and tranquil hotel set amidst lush gardens and a serene waterfall, offering a calm escape in the heart of the bustling city.",
+    "type": "Hotel",
+    "category": [
+      "Luxury",
+      "Urban",
+      "Resort"
+    ],
+    "city": "Bengaluru",
+    "address": "37-39, Mahatma Gandhi Rd, Bengaluru, Karnataka 560001",
+    "distance": "22 miles from Kempegowda International Airport (BLR)",
+    "cheapestPrice": 220,
+    "ratings": 4.7
+  },
+  {
+    "name": "The Ritz-Carlton, Bengaluru",
+    "description": "A high-end hotel with sophisticated design, a well-regarded spa, and a rooftop bar, offering a luxurious experience in the city center.",
+    "type": "Hotel",
+    "category": [
+      "Luxury",
+      "Urban",
+      "Business"
+    ],
+    "city": "Bengaluru",
+    "address": "99, Residency Road, Bengaluru, Karnataka 560025",
+    "distance": "22 miles from Kempegowda International Airport (BLR)",
+    "cheapestPrice": 250,
+    "ratings": 4.6
+  },
+  {
+    "name": "ITC Windsor, a Luxury Collection Hotel, Bengaluru",
+    "description": "A hotel that embodies a sense of British regality, with its elegant architecture and old-world charm, offering a classic and luxurious stay.",
+    "type": "Hotel",
+    "category": [
+      "Historic",
+      "Luxury",
+      "Urban"
+    ],
+    "city": "Bengaluru",
+    "address": "25, Windsor Square, Golf Course Rd, Bengaluru, Karnataka 560052",
+    "distance": "20 miles from Kempegowda International Airport (BLR)",
+    "cheapestPrice": 180,
+    "ratings": 4.5
+  },
+  {
+    "name": "Taj Falaknuma Palace, Hyderabad",
+    "description": "A magnificently restored palace that was once the residence of the Nizam of Hyderabad, offering a royal experience with exquisite interiors and stunning views.",
+    "type": "Hotel",
+    "category": [
+      "Historic",
+      "Palace",
+      "Luxury"
+    ],
+    "city": "Hyderabad",
+    "address": "Engine Bowli, Fatima Nagar, Falaknuma, Hyderabad, Telangana 500053",
+    "distance": "8 miles from Rajiv Gandhi International Airport (HYD)",
+    "cheapestPrice": 550,
+    "ratings": 4.8
+  },
+  {
+    "name": "Trident, Hyderabad",
+    "description": "A contemporary luxury hotel in the heart of the HITEC City, known for its sleek design, spacious rooms, and a central location for business travelers.",
+    "type": "Hotel",
+    "category": [
+      "Luxury",
+      "Urban",
+      "Business"
+    ],
+    "city": "Hyderabad",
+    "address": "Hitec City, Jubilee Enclave, Hyderabad, Telangana 500081",
+    "distance": "22 miles from Rajiv Gandhi International Airport (HYD)",
+    "cheapestPrice": 160,
+    "ratings": 4.6
+  },
+  {
+    "name": "The Oberoi Grand, Kolkata",
+    "description": "Known as the 'Grande Dame of Kolkata,' this historic hotel features a beautiful neo-classical facade, a serene courtyard, and classic charm.",
+    "type": "Hotel",
+    "category": [
+      "Historic",
+      "Luxury",
+      "Urban"
+    ],
+    "city": "Kolkata",
+    "address": "15 Jawaharlal Nehru Rd, New Market Area, Dharmatala, Taltala, Kolkata, West Bengal 700013",
+    "distance": "10 miles from Netaji Subhas Chandra Bose International Airport (CCU)",
+    "cheapestPrice": 180,
+    "ratings": 4.5
+  },
+  {
+    "name": "Taj Bengal, Kolkata",
+    "description": "A modern and elegant hotel located in the city's greenest quarter, offering a blend of traditional hospitality and contemporary comfort.",
+    "type": "Hotel",
+    "category": [
+      "Luxury",
+      "Urban",
+      "Business"
+    ],
+    "city": "Kolkata",
+    "address": "34B, Belvedere Rd, Alipore, Kolkata, West Bengal 700027",
+    "distance": "12 miles from Netaji Subhas Chandra Bose International Airport (CCU)",
+    "cheapestPrice": 150,
+    "ratings": 4.4
+  },
+  {
+    "name": "ITC Mughal, a Luxury Collection Resort & Spa, Agra",
+    "description": "A luxury hotel in Agra that pays tribute to the Mughal dynasty with its grand design, lush gardens, and a spa inspired by traditional Mughal baths.",
+    "type": "Resort",
+    "category": [
+      "Luxury",
+      "Spa",
+      "Resort"
+    ],
+    "city": "Agra",
+    "address": "Taj Ganj, Fatehabad Road, Agra, Uttar Pradesh 282001",
+    "distance": "6 miles from Agra Airport (AGR)",
+    "cheapestPrice": 122,
+    "ratings": 4.7
+  },
+  {
+    "name": "The Oberoi Amarvilas, Agra",
+    "description": "An opulent hotel with an unrivalled position, offering uninterrupted views of the Taj Mahal from every room and suite, making it a truly magical experience.",
+    "type": "Hotel",
+    "category": [
+      "Luxury",
+      "View",
+      "Resort"
+    ],
+    "city": "Agra",
+    "address": "Taj East Gate Road, Agra, Uttar Pradesh 282001",
+    "distance": "7 miles from Agra Airport (AGR)",
+    "cheapestPrice": 600,
+    "ratings": 4.9
+  },
+  {
+    "name": "Taj Malabar Resort & Spa, Cochin",
+    "description": "A waterfront hotel on Willingdon Island, offering stunning views of the Kochi harbour and backwaters, with a blend of colonial architecture and modern luxury.",
+    "type": "Resort",
+    "category": [
+      "Resort",
+      "Urban",
+      "Spa"
+    ],
+    "city": "Kochi",
+    "address": "Willingdon Island, Kochi, Kerala 682009",
+    "distance": "22 miles from Cochin International Airport (COK)",
+    "cheapestPrice": 180,
+    "ratings": 4.6
+  },
+  {
+    "name": "The Leela Kovalam, a Raviz Hotel",
+    "description": "A stunning cliff-top resort with a private beach, offering panoramic views of the Arabian Sea and a blend of traditional and contemporary Kerala architecture.",
+    "type": "Resort",
+    "category": [
+      "Resort",
+      "Beachfront",
+      "Luxury"
+    ],
+    "city": "Kovalam",
+    "address": "Kovalam Beach Rd, Thiruvananthapuram, Kerala 695522",
+    "distance": "9 miles from Trivandrum International Airport (TRV)",
+    "cheapestPrice": 250,
+    "ratings": 4.5
+  },
+  {
+    "name": "Taj Fort Aguada Resort & Spa, Goa",
+    "description": "A resort on the shores of the Arabian Sea, built on the site of a 17th-century Portuguese fortress, offering a blend of history and a luxurious beach vacation.",
+    "type": "Resort",
+    "category": [
+      "Historic",
+      "Resort",
+      "Beachfront"
+    ],
+    "city": "Goa",
+    "address": "Sinquerim, Candolim, Goa 403515",
+    "distance": "22 miles from Goa International Airport (GOI)",
+    "cheapestPrice": 200,
+    "ratings": 4.5
+  },
+  {
+    "name": "Grand Hyatt Goa",
+    "description": "A luxury resort in Bambolim Bay with sprawling gardens, a large outdoor pool, and multiple dining options, offering a serene and family-friendly retreat.",
+    "type": "Resort",
+    "category": [
+      "Resort",
+      "Family-friendly",
+      "Beachfront"
+    ],
+    "city": "Goa",
+    "address": "P.O. Bambolim, North Goa, Goa 403206",
+    "distance": "15 miles from Goa International Airport (GOI)",
+    "cheapestPrice": 180,
+    "ratings": 4.4
+  },
+  {
+    "name": "The Oberoi Sukhvilas Resort & Spa, New Chandigarh",
+    "description": "A luxury spa resort set within 8,000 acres of protected natural forest at the foothills of the Himalayas, offering a unique wellness and relaxation experience.",
+    "type": "Resort",
+    "category": [
+      "Luxury",
+      "Spa",
+      "Wellness"
+    ],
+    "city": "New Chandigarh",
+    "address": "Pallanpur, New Chandigarh, Punjab 140901",
+    "distance": "10 miles from Chandigarh International Airport (IXC)",
+    "cheapestPrice": 400,
+    "ratings": 4.8
+  },
+  {
+    "name": "Taj Swarna, Amritsar",
+    "description": "A contemporary luxury hotel in the heart of Amritsar, offering a modern and comfortable stay with a convenient location for visiting the Golden Temple.",
+    "type": "Hotel",
+    "category": [
+      "Luxury",
+      "Urban",
+      "Business"
+    ],
+    "city": "Amritsar",
+    "address": "Plot No. C-1, Main G.T. Road, Amritsar, Punjab 143001",
+    "distance": "8 miles from Sri Guru Ram Dass Jee International Airport (ATQ)",
+    "cheapestPrice": 120,
+    "ratings": 4.6
+  }
+]
