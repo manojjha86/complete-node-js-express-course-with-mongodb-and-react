@@ -1,0 +1,428 @@
+[
+  {
+    "name": "connaught comfort inn",
+    "description": "a centrally located hotel ideal for business and leisure travelers",
+    "type": "hotel",
+    "category": ["business", "city stay"],
+    "city": "delhi",
+    "country": "india",
+    "address": {
+      "addressLine1": "connaught place",
+      "addressLine2": "outer circle",
+      "landmark": "near rajiv chowk metro",
+      "zipCode": "110001",
+      "location": { "type": "Point", "coordinates": [77.2167, 28.6315] }
+    },
+    "distance": "14 km from airport",
+    "images": [],
+    "rooms": [],
+    "cheapestPrice": 260,
+    "featured": false,
+    "ammenities": {
+      "swimmingPool": false,
+      "gym": true,
+      "powerBackup": true,
+      "freeWifi": true,
+      "miniBar": false,
+      "roomService": true,
+      "elevator": true,
+      "kidsPlayArea": false
+    }
+  },
+  {
+    "name": "airport view residency",
+    "description": "comfortable hotel near the airport with quick transit access",
+    "type": "hotel",
+    "category": ["transit", "business"],
+    "city": "delhi",
+    "country": "india",
+    "address": {
+      "addressLine1": "aerocity road",
+      "addressLine2": "",
+      "landmark": "near igi airport",
+      "zipCode": "110037",
+      "location": { "type": "Point", "coordinates": [77.1031, 28.5562] }
+    },
+    "distance": "3 km from airport",
+    "images": [],
+    "rooms": [],
+    "cheapestPrice": 220,
+    "featured": false,
+    "ammenities": {
+      "swimmingPool": false,
+      "gym": true,
+      "powerBackup": true,
+      "freeWifi": true,
+      "miniBar": false,
+      "roomService": true,
+      "elevator": true,
+      "kidsPlayArea": false
+    }
+  },
+  {
+    "name": "marine drive grand hotel",
+    "description": "luxury hotel offering sea views and premium services",
+    "type": "hotel",
+    "category": ["luxury", "sea view"],
+    "city": "mumbai",
+    "country": "india",
+    "address": {
+      "addressLine1": "marine drive",
+      "addressLine2": "",
+      "landmark": "near nariman point",
+      "zipCode": "400021",
+      "location": { "type": "Point", "coordinates": [72.8235, 18.9439] }
+    },
+    "distance": "24 km from airport",
+    "images": [],
+    "rooms": [],
+    "cheapestPrice": 850,
+    "featured": true,
+    "ammenities": {
+      "swimmingPool": true,
+      "gym": true,
+      "powerBackup": true,
+      "freeWifi": true,
+      "miniBar": true,
+      "roomService": true,
+      "elevator": true,
+      "kidsPlayArea": false
+    }
+  },
+  {
+    "name": "andheri business suites",
+    "description": "modern serviced apartments for corporate travelers",
+    "type": "apartment",
+    "category": ["business", "long stay"],
+    "city": "mumbai",
+    "country": "india",
+    "address": {
+      "addressLine1": "andheri east",
+      "addressLine2": "midc road",
+      "landmark": "near metro station",
+      "zipCode": "400069",
+      "location": { "type": "Point", "coordinates": [72.8691, 19.1176] }
+    },
+    "distance": "5 km from airport",
+    "images": [],
+    "rooms": [],
+    "cheapestPrice": 310,
+    "featured": false,
+    "ammenities": {
+      "swimmingPool": false,
+      "gym": true,
+      "powerBackup": true,
+      "freeWifi": true,
+      "miniBar": false,
+      "roomService": false,
+      "elevator": true,
+      "kidsPlayArea": false
+    }
+  },
+  {
+    "name": "pink city heritage hotel",
+    "description": "heritage hotel reflecting royal rajasthani architecture",
+    "type": "hotel",
+    "category": ["heritage", "culture"],
+    "city": "jaipur",
+    "country": "india",
+    "address": {
+      "addressLine1": "amer road",
+      "addressLine2": "",
+      "landmark": "near amber fort",
+      "zipCode": "302002",
+      "location": { "type": "Point", "coordinates": [75.8513, 26.9855] }
+    },
+    "distance": "17 km from airport",
+    "images": [],
+    "rooms": [],
+    "cheapestPrice": 480,
+    "featured": true,
+    "ammenities": {
+      "swimmingPool": true,
+      "gym": false,
+      "powerBackup": true,
+      "freeWifi": true,
+      "miniBar": true,
+      "roomService": true,
+      "elevator": false,
+      "kidsPlayArea": false
+    }
+  },
+  {
+    "name": "civil lines garden villa",
+    "description": "peaceful villa surrounded by greenery and gardens",
+    "type": "villa",
+    "category": ["leisure", "couple"],
+    "city": "jaipur",
+    "country": "india",
+    "address": {
+      "addressLine1": "civil lines",
+      "addressLine2": "",
+      "landmark": "near central park",
+      "zipCode": "302006",
+      "location": { "type": "Point", "coordinates": [75.7922, 26.9124] }
+    },
+    "distance": "12 km from airport",
+    "images": [],
+    "rooms": [],
+    "cheapestPrice": 410,
+    "featured": false,
+    "ammenities": {
+      "swimmingPool": true,
+      "gym": false,
+      "powerBackup": true,
+      "freeWifi": true,
+      "miniBar": false,
+      "roomService": true,
+      "elevator": false,
+      "kidsPlayArea": false
+    }
+  },
+  {
+    "name": "calangute beach resort",
+    "description": "beachfront resort perfect for vacation and relaxation",
+    "type": "resort",
+    "category": ["beach", "leisure"],
+    "city": "goa",
+    "country": "india",
+    "address": {
+      "addressLine1": "calangute beach road",
+      "addressLine2": "",
+      "landmark": "near calangute beach",
+      "zipCode": "403516",
+      "location": { "type": "Point", "coordinates": [73.7553, 15.544] }
+    },
+    "distance": "40 km from airport",
+    "images": [],
+    "rooms": [],
+    "cheapestPrice": 650,
+    "featured": true,
+    "ammenities": {
+      "swimmingPool": true,
+      "gym": true,
+      "powerBackup": true,
+      "freeWifi": true,
+      "miniBar": true,
+      "roomService": true,
+      "elevator": false,
+      "kidsPlayArea": true
+    }
+  },
+  {
+    "name": "candolim budget stay",
+    "description": "affordable hotel close to popular beaches",
+    "type": "hotel",
+    "category": ["budget", "beach"],
+    "city": "goa",
+    "country": "india",
+    "address": {
+      "addressLine1": "candolim main road",
+      "addressLine2": "",
+      "landmark": "near candolim church",
+      "zipCode": "403515",
+      "location": { "type": "Point", "coordinates": [73.7664, 15.5183] }
+    },
+    "distance": "35 km from airport",
+    "images": [],
+    "rooms": [],
+    "cheapestPrice": 180,
+    "featured": false,
+    "ammenities": {
+      "swimmingPool": false,
+      "gym": false,
+      "powerBackup": true,
+      "freeWifi": true,
+      "miniBar": false,
+      "roomService": false,
+      "elevator": false,
+      "kidsPlayArea": false
+    }
+  },
+
+  {
+    "name": "karol bagh comfort stay",
+    "description": "budget friendly hotel with easy access to markets",
+    "type": "hotel",
+    "category": ["budget", "shopping"],
+    "city": "delhi",
+    "country": "india",
+    "address": {
+      "addressLine1": "karol bagh main road",
+      "addressLine2": "",
+      "landmark": "near karol bagh metro",
+      "zipCode": "110005",
+      "location": { "type": "Point", "coordinates": [77.1906, 28.6513] }
+    },
+    "distance": "16 km from airport",
+    "images": [],
+    "rooms": [],
+    "cheapestPrice": 170,
+    "featured": false,
+    "ammenities": {
+      "swimmingPool": false,
+      "gym": false,
+      "powerBackup": true,
+      "freeWifi": true,
+      "miniBar": false,
+      "roomService": true,
+      "elevator": true,
+      "kidsPlayArea": false
+    }
+  },
+
+  {
+    "name": "bandra boutique hotel",
+    "description": "stylish boutique hotel in a lively neighborhood",
+    "type": "hotel",
+    "category": ["boutique", "leisure"],
+    "city": "mumbai",
+    "country": "india",
+    "address": {
+      "addressLine1": "bandra west",
+      "addressLine2": "linking road",
+      "landmark": "near bandstand",
+      "zipCode": "400050",
+      "location": { "type": "Point", "coordinates": [72.8295, 19.0596] }
+    },
+    "distance": "9 km from airport",
+    "images": [],
+    "rooms": [],
+    "cheapestPrice": 390,
+    "featured": false,
+    "ammenities": {
+      "swimmingPool": false,
+      "gym": true,
+      "powerBackup": true,
+      "freeWifi": true,
+      "miniBar": true,
+      "roomService": true,
+      "elevator": true,
+      "kidsPlayArea": false
+    }
+  },
+
+  {
+    "name": "malviya nagar city hotel",
+    "description": "comfortable hotel suitable for families and business travelers",
+    "type": "hotel",
+    "category": ["family", "business"],
+    "city": "jaipur",
+    "country": "india",
+    "address": {
+      "addressLine1": "malviya nagar",
+      "addressLine2": "",
+      "landmark": "near world trade park",
+      "zipCode": "302017",
+      "location": { "type": "Point", "coordinates": [75.8123, 26.8534] }
+    },
+    "distance": "6 km from airport",
+    "images": [],
+    "rooms": [],
+    "cheapestPrice": 240,
+    "featured": false,
+    "ammenities": {
+      "swimmingPool": false,
+      "gym": true,
+      "powerBackup": true,
+      "freeWifi": true,
+      "miniBar": false,
+      "roomService": true,
+      "elevator": true,
+      "kidsPlayArea": false
+    }
+  },
+
+  {
+    "name": "anjuna cliff view villa",
+    "description": "private villa offering scenic cliffside views",
+    "type": "villa",
+    "category": ["luxury", "couple"],
+    "city": "goa",
+    "country": "india",
+    "address": {
+      "addressLine1": "anjuna beach road",
+      "addressLine2": "",
+      "landmark": "near anjuna cliff",
+      "zipCode": "403509",
+      "location": { "type": "Point", "coordinates": [73.7421, 15.5736] }
+    },
+    "distance": "47 km from airport",
+    "images": [],
+    "rooms": [],
+    "cheapestPrice": 720,
+    "featured": true,
+    "ammenities": {
+      "swimmingPool": true,
+      "gym": false,
+      "powerBackup": true,
+      "freeWifi": true,
+      "miniBar": true,
+      "roomService": true,
+      "elevator": false,
+      "kidsPlayArea": false
+    }
+  },
+
+  {
+    "name": "south delhi green stay",
+    "description": "eco friendly hotel located in a quiet neighborhood",
+    "type": "hotel",
+    "category": ["eco", "leisure"],
+    "city": "delhi",
+    "country": "india",
+    "address": {
+      "addressLine1": "greater kailash",
+      "addressLine2": "",
+      "landmark": "near m block market",
+      "zipCode": "110048",
+      "location": { "type": "Point", "coordinates": [77.2425, 28.5494] }
+    },
+    "distance": "18 km from airport",
+    "images": [],
+    "rooms": [],
+    "cheapestPrice": 280,
+    "featured": false,
+    "ammenities": {
+      "swimmingPool": false,
+      "gym": false,
+      "powerBackup": true,
+      "freeWifi": true,
+      "miniBar": false,
+      "roomService": true,
+      "elevator": true,
+      "kidsPlayArea": false
+    }
+  },
+
+  {
+    "name": "juhu beach luxury suites",
+    "description": "premium suites located near juhu beach",
+    "type": "hotel",
+    "category": ["luxury", "beach"],
+    "city": "mumbai",
+    "country": "india",
+    "address": {
+      "addressLine1": "juhu tara road",
+      "addressLine2": "",
+      "landmark": "near juhu beach",
+      "zipCode": "400049",
+      "location": { "type": "Point", "coordinates": [72.8267, 19.0883] }
+    },
+    "distance": "6 km from airport",
+    "images": [],
+    "rooms": [],
+    "cheapestPrice": 680,
+    "featured": true,
+    "ammenities": {
+      "swimmingPool": true,
+      "gym": true,
+      "powerBackup": true,
+      "freeWifi": true,
+      "miniBar": true,
+      "roomService": true,
+      "elevator": true,
+      "kidsPlayArea": false
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Deluxe Room",
+    "description": "Spacious room with king-size bed and city view",
+    "price": 2500,
+    "maxPerson": 2,
+    "roomNumber": [101, 104, 201, 204]
+  },
+  {
+    "title": "Standard Room",
+    "description": "Comfortable room with queen-size bed",
+    "price": 1800,
+    "maxPerson": 2,
+    "roomNumber": [102, 103, 202, 203]
+  },
+  {
+    "title": "Family Suite",
+    "description": "Large suite with two bedrooms and living area",
+    "price": 4000,
+    "maxPerson": 5,
+    "roomNumber": [204, 205, 305]
+  },
+  {
+    "title": "Single Room",
+    "description": "Compact room ideal for solo travelers",
+    "price": 1200,
+    "maxPerson": 1,
+    "roomNumber": [104, 106, 206]
+  },
+  {
+    "title": "Executive Suite",
+    "description": "Premium suite with workspace and luxury amenities",
+    "price": 5500,
+    "maxPerson": 3,
+    "roomNumber": [301,302,303,304]
+  }
+]

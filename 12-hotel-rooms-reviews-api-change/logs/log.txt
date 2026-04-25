@@ -1,0 +1,194 @@
+Thu Oct 02 2025 15:04:19 GMT+0530 (India Standard Time): A new Hotel document with name 'The Test Hotel 4, Mumbai is created by: 'Jha, Manoj.
+'Thu Oct 02 2025 15:05:34 GMT+0530 (India Standard Time): A new Hotel document with name 'The Test Hotel 5, Mumbai' is created by: 'Jha, Manoj'.
+'Thu Oct 02 2025 17:51:12 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Fri Oct 10 2025 12:15:20 GMT+0530 (India Standard Time): A new Hotel document with name 'new test hotel' is created by: 'Jha, Manoj'.
+Fri Oct 10 2025 12:48:21 GMT+0530 (India Standard Time): A new Hotel document with name 'new test 2' is created by: 'Jha, Manoj'.
+Fri Oct 10 2025 18:01:00 GMT+0530 (India Standard Time): A new Hotel document with name 'test hotel 3' is created by: 'Jha, Manoj'.
+Fri Oct 10 2025 18:10:35 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Sat Oct 11 2025 11:10:57 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Sat Oct 11 2025 11:53:54 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Sat Oct 11 2025 11:56:12 GMT+0530 (India Standard Time): A Hotel document with name 'undefined' is update by: 'undefined'.
+Sat Oct 11 2025 11:57:10 GMT+0530 (India Standard Time): A Hotel document with name 'undefined' is update by: 'undefined'.
+Sat Oct 11 2025 12:51:37 GMT+0530 (India Standard Time): A Hotel document with name 'undefined' is update by: 'undefined'.
+Sat Oct 11 2025 12:53:37 GMT+0530 (India Standard Time): A Hotel document with name 'undefined' is update by: 'undefined'.
+Sat Oct 11 2025 13:01:28 GMT+0530 (India Standard Time): A Hotel document with name 'undefined' is update by: 'undefined'.
+Sat Oct 11 2025 13:02:42 GMT+0530 (India Standard Time): A Hotel document with name 'undefined' is update by: 'undefined'.
+Sat Oct 11 2025 15:54:10 GMT+0530 (India Standard Time): A new Hotel document with name 'test hotel 4' is created by: 'Jha, Manoj'.
+Tue Oct 21 2025 20:57:53 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Tue Oct 21 2025 21:02:53 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Tue Oct 21 2025 21:03:25 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Tue Oct 21 2025 21:04:35 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Tue Oct 21 2025 21:05:40 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Tue Oct 21 2025 21:06:30 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Tue Oct 21 2025 21:08:06 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Tue Oct 21 2025 21:09:22 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Tue Oct 21 2025 21:13:49 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Tue Oct 21 2025 22:38:02 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Tue Oct 21 2025 22:47:51 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Tue Oct 21 2025 22:49:19 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Tue Oct 21 2025 22:55:25 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Tue Oct 21 2025 22:55:46 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Tue Oct 21 2025 23:05:41 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Wed Oct 22 2025 00:43:06 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Wed Oct 22 2025 00:45:29 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Wed Oct 22 2025 00:49:02 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Wed Oct 22 2025 00:53:07 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Wed Oct 22 2025 00:57:57 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Wed Oct 22 2025 22:18:49 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Wed Oct 22 2025 22:41:53 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Wed Oct 22 2025 22:42:13 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Wed Oct 22 2025 23:05:23 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Tue Oct 28 2025 22:05:27 GMT+0530 (India Standard Time): A Hotel document with name 'Taj Swarna, Amritsar' is update by: 'undefined'.
+Tue Dec 23 2025 18:06:07 GMT+0530 (India Standard Time): A new Hotel document with name 'sunrise grand hotel' is created by: 'Jha, Manoj'.
+Tue Dec 23 2025 22:34:01 GMT+0530 (India Standard Time): A new Hotel document with name 'sunrise grand hotel' is created by: 'Jha, Manoj'.
+Tue Dec 23 2025 22:43:15 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Tue Dec 23 2025 22:45:36 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Tue Dec 23 2025 23:02:10 GMT+0530 (India Standard Time): A new Hotel document with name 'sunrise grand hotel' is created by: 'Jha, Manoj'.
+Tue Dec 23 2025 23:26:59 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Tue Dec 23 2025 23:29:12 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Wed Dec 24 2025 00:10:55 GMT+0530 (India Standard Time): A new Hotel document with name 'sunrise grand hotel' is created by: 'Jha, Manoj'.
+Wed Dec 24 2025 00:11:59 GMT+0530 (India Standard Time): A Hotel document with name 'undefined' is update by: 'undefined'.
+Wed Dec 24 2025 00:15:56 GMT+0530 (India Standard Time): A new Hotel document with name 'sunrise grand hotel' is created by: 'Jha, Manoj'.
+Wed Dec 24 2025 00:17:35 GMT+0530 (India Standard Time): A Hotel document with name 'undefined' is update by: 'undefined'.
+Wed Dec 24 2025 00:20:11 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Wed Dec 24 2025 00:20:51 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Thu Dec 25 2025 12:37:27 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Thu Dec 25 2025 21:14:45 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Thu Dec 25 2025 21:31:27 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Thu Dec 25 2025 21:31:44 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Thu Dec 25 2025 21:35:40 GMT+0530 (India Standard Time): A new Hotel document with name 'ocean breeze resort' is created by: 'Jha, Manoj'.
+Thu Dec 25 2025 21:36:46 GMT+0530 (India Standard Time): A Hotel document with name 'ocean breeze resort' is update by: 'Jha, Manoj'.
+Mon Dec 29 2025 18:44:04 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Mon Dec 29 2025 19:37:58 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Mon Dec 29 2025 19:39:27 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Mon Dec 29 2025 20:00:22 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Mon Dec 29 2025 20:01:15 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Mon Dec 29 2025 20:02:04 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Mon Dec 29 2025 20:03:37 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Mon Dec 29 2025 20:03:48 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Mon Dec 29 2025 20:04:00 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Mon Dec 29 2025 20:07:36 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Mon Dec 29 2025 20:08:02 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Thu Jan 08 2026 11:07:22 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Thu Jan 08 2026 11:11:22 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Thu Jan 08 2026 11:11:23 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Thu Jan 08 2026 11:12:36 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Thu Jan 08 2026 11:12:36 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Thu Jan 08 2026 11:14:06 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Thu Jan 08 2026 11:14:06 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Thu Jan 08 2026 11:18:48 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'Jha, Manoj'.
+Thu Jan 08 2026 15:14:53 GMT+0530 (India Standard Time): A new Hotel document with name 'connaught comfort inn' is created by: 'Jha, Manoj'.
+Thu Jan 08 2026 17:15:54 GMT+0530 (India Standard Time): A new Hotel document with name 'connaught comfort inn' is created by: 'Jha, Manoj'.
+Thu Jan 08 2026 17:15:55 GMT+0530 (India Standard Time): A new Hotel document with name 'andheri business suites' is created by: 'Jha, Manoj'.
+Thu Jan 08 2026 17:15:55 GMT+0530 (India Standard Time): A new Hotel document with name 'pink city heritage hotel' is created by: 'Jha, Manoj'.
+Thu Jan 08 2026 17:15:55 GMT+0530 (India Standard Time): A new Hotel document with name 'civil lines garden villa' is created by: 'Jha, Manoj'.
+Thu Jan 08 2026 17:15:55 GMT+0530 (India Standard Time): A new Hotel document with name 'calangute beach resort' is created by: 'Jha, Manoj'.
+Thu Jan 08 2026 17:15:55 GMT+0530 (India Standard Time): A new Hotel document with name 'candolim budget stay' is created by: 'Jha, Manoj'.
+Thu Jan 08 2026 17:15:55 GMT+0530 (India Standard Time): A new Hotel document with name 'marine drive grand hotel' is created by: 'Jha, Manoj'.
+Thu Jan 08 2026 17:15:55 GMT+0530 (India Standard Time): A new Hotel document with name 'airport view residency' is created by: 'Jha, Manoj'.
+Thu Jan 08 2026 17:15:55 GMT+0530 (India Standard Time): A new Hotel document with name 'malviya nagar city hotel' is created by: 'Jha, Manoj'.
+Thu Jan 08 2026 17:15:55 GMT+0530 (India Standard Time): A new Hotel document with name 'anjuna cliff view villa' is created by: 'Jha, Manoj'.
+Thu Jan 08 2026 17:15:55 GMT+0530 (India Standard Time): A new Hotel document with name 'south delhi green stay' is created by: 'Jha, Manoj'.
+Thu Jan 08 2026 17:15:55 GMT+0530 (India Standard Time): A new Hotel document with name 'juhu beach luxury suites' is created by: 'Jha, Manoj'.
+Thu Jan 08 2026 17:15:55 GMT+0530 (India Standard Time): A new Hotel document with name 'karol bagh comfort stay' is created by: 'Jha, Manoj'.
+Thu Jan 08 2026 17:15:55 GMT+0530 (India Standard Time): A new Hotel document with name 'bandra boutique hotel' is created by: 'Jha, Manoj'.
+Thu Jan 08 2026 18:43:29 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Thu Jan 08 2026 18:44:08 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Thu Jan 08 2026 18:48:10 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Thu Jan 08 2026 18:49:53 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Thu Jan 08 2026 18:52:06 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Fri Jan 09 2026 10:43:17 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Fri Jan 09 2026 10:48:56 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Fri Jan 09 2026 10:54:20 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Fri Jan 09 2026 11:02:38 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Mon Jan 12 2026 18:17:29 GMT+0530 (India Standard Time): A new Hotel document with name 'lajpat nagar urban hotel' is created by: 'johnsmith@gmail.com'.
+Mon Jan 12 2026 18:20:12 GMT+0530 (India Standard Time): A new Hotel document with name 'panjim riverside boutique stay' is created by: 'meryjane@gmail.com'.
+Mon Mar 16 2026 19:49:00 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn test' is update by: 'Jha, Manoj'.
+Mon Mar 16 2026 19:54:15 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn test' is update by: 'Jha, Manoj'.
+Tue Mar 17 2026 10:29:14 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn test' is update by: 'Jha, Manoj'.
+Wed Mar 18 2026 11:19:15 GMT+0530 (India Standard Time): A Hotel document with name 'karol bagh comfort stay' is update by: 'Jha, Manoj'.
+Wed Mar 18 2026 11:24:20 GMT+0530 (India Standard Time): A Hotel document with name 'candolim budget stay' is update by: 'Jha, Manoj'.
+Wed Mar 18 2026 11:31:55 GMT+0530 (India Standard Time): A Hotel document with name 'calangute beach resort' is update by: 'Jha, Manoj'.
+Wed Mar 18 2026 11:37:59 GMT+0530 (India Standard Time): A Hotel document with name 'airport view residency' is update by: 'Jha, Manoj'.
+Wed Mar 18 2026 11:44:37 GMT+0530 (India Standard Time): A Hotel document with name 'malviya nagar city hotel' is update by: 'Jha, Manoj'.
+Thu Mar 19 2026 17:17:42 GMT+0530 (India Standard Time): A Hotel document with name 'calangute beach resort test' is update by: 'Jha, Manoj'.
+Thu Mar 19 2026 17:36:26 GMT+0530 (India Standard Time): A Hotel document with name 'karol bagh comfort stay test' is update by: 'Jha, Manoj'.
+Thu Mar 19 2026 17:36:39 GMT+0530 (India Standard Time): A Hotel document with name 'karol bagh comfort stay test' is update by: 'Jha, Manoj'.
+Thu Mar 19 2026 17:44:18 GMT+0530 (India Standard Time): A Hotel document with name 'candolim budget stay test' is update by: 'Jha, Manoj'.
+Thu Mar 19 2026 17:53:33 GMT+0530 (India Standard Time): A Hotel document with name 'candolim budget stay' is update by: 'Jha, Manoj'.
+Thu Mar 19 2026 17:53:51 GMT+0530 (India Standard Time): A Hotel document with name 'candolim budget stay' is update by: 'Jha, Manoj'.
+Thu Mar 19 2026 17:54:03 GMT+0530 (India Standard Time): A Hotel document with name 'candolim budget stay' is update by: 'Jha, Manoj'.
+Thu Mar 19 2026 17:55:44 GMT+0530 (India Standard Time): A Hotel document with name 'candolim budget stay' is update by: 'Jha, Manoj'.
+Thu Mar 19 2026 18:08:11 GMT+0530 (India Standard Time): A Hotel document with name 'calangute beach resort' is update by: 'Jha, Manoj'.
+Thu Mar 19 2026 18:08:25 GMT+0530 (India Standard Time): A Hotel document with name 'karol bagh comfort stay' is update by: 'Jha, Manoj'.
+Thu Mar 19 2026 18:59:26 GMT+0530 (India Standard Time): A Hotel document with name 'candolim budget stay test' is update by: 'Jha, Manoj'.
+Thu Mar 19 2026 19:01:30 GMT+0530 (India Standard Time): A Hotel document with name 'candolim budget stay' is update by: 'Jha, Manoj'.
+Thu Mar 19 2026 20:08:33 GMT+0530 (India Standard Time): A Hotel document with name 'karol bagh comfort stay' is update by: 'Jha, Manoj'.
+Thu Mar 19 2026 20:09:58 GMT+0530 (India Standard Time): A Hotel document with name 'karol bagh comfort stay' is update by: 'Jha, Manoj'.
+Thu Mar 19 2026 20:13:34 GMT+0530 (India Standard Time): A Hotel document with name 'karol bagh comfort stay' is update by: 'Jha, Manoj'.
+Thu Mar 19 2026 20:13:59 GMT+0530 (India Standard Time): A Hotel document with name 'karol bagh comfort stay' is update by: 'Jha, Manoj'.
+Thu Mar 19 2026 20:14:57 GMT+0530 (India Standard Time): A Hotel document with name 'karol bagh comfort stay test' is update by: 'Jha, Manoj'.
+Fri Mar 20 2026 12:39:11 GMT+0530 (India Standard Time): A Hotel document with name 'karol bagh comfort stay' is update by: 'Jha, Manoj'.
+Fri Mar 20 2026 12:40:37 GMT+0530 (India Standard Time): A Hotel document with name 'karol bagh comfort stay' is update by: 'Jha, Manoj'.
+Fri Mar 20 2026 12:44:12 GMT+0530 (India Standard Time): A Hotel document with name 'karol bagh comfort stay' is update by: 'Jha, Manoj'.
+Fri Mar 20 2026 12:45:50 GMT+0530 (India Standard Time): A Hotel document with name 'karol bagh comfort stay' is update by: 'Jha, Manoj'.
+Fri Mar 20 2026 16:44:38 GMT+0530 (India Standard Time): A new Hotel document with name 'sunrise grand hotel' is created by: 'meryjane@gmail.com'.
+Fri Mar 20 2026 16:47:58 GMT+0530 (India Standard Time): A Hotel document with name 'karol bagh comfort stay test' is update by: 'Jha, Manoj'.
+Fri Mar 20 2026 16:48:10 GMT+0530 (India Standard Time): A Hotel document with name 'karol bagh comfort stay' is update by: 'Jha, Manoj'.
+Fri Mar 20 2026 18:19:10 GMT+0530 (India Standard Time): A new Hotel document with name 'sunrise grand hotel' is created by: 'meryjane@gmail.com'.
+Fri Mar 20 2026 18:19:40 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'meryjane@gmail.com'.
+Fri Mar 20 2026 20:38:43 GMT+0530 (India Standard Time): A new Hotel document with name 'green valley resort' is created by: 'meryjane@gmail.com'.
+Fri Mar 20 2026 20:39:06 GMT+0530 (India Standard Time): A Hotel document with name 'green valley resort' is update by: 'meryjane@gmail.com'.
+Sun Apr 05 2026 16:15:10 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Sun Apr 05 2026 16:28:12 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Sun Apr 05 2026 17:01:11 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 15 2026 18:32:14 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 15 2026 18:32:36 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 15 2026 18:34:34 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 15 2026 18:36:36 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 15 2026 18:37:24 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 15 2026 18:43:52 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 15 2026 18:48:23 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 15 2026 18:54:37 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 15 2026 23:06:41 GMT+0530 (India Standard Time): A Hotel document with name 'andheri business suites' is update by: 'Jha, Manoj'.
+Wed Apr 15 2026 23:08:19 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 15 2026 23:16:16 GMT+0530 (India Standard Time): A Hotel document with name 'andheri business suites' is update by: 'Jha, Manoj'.
+Thu Apr 16 2026 16:21:40 GMT+0530 (India Standard Time): A Hotel document with name 'andheri business suites' is update by: 'Jha, Manoj'.
+Thu Apr 16 2026 16:22:50 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Thu Apr 16 2026 16:48:16 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Thu Apr 16 2026 16:48:16 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Thu Apr 16 2026 16:48:32 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Thu Apr 16 2026 16:48:32 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Thu Apr 16 2026 18:11:07 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Thu Apr 16 2026 18:12:18 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Thu Apr 16 2026 18:17:29 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Thu Apr 16 2026 18:25:56 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Thu Apr 16 2026 18:29:27 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Sun Apr 19 2026 16:21:46 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Sun Apr 19 2026 16:22:30 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Sun Apr 19 2026 16:23:17 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Sun Apr 19 2026 16:38:30 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Sun Apr 19 2026 16:38:30 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Sun Apr 19 2026 16:38:53 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Sun Apr 19 2026 17:00:36 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Sun Apr 19 2026 17:00:36 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Sun Apr 19 2026 17:02:50 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Sun Apr 19 2026 17:02:50 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Sun Apr 19 2026 17:03:30 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Sun Apr 19 2026 17:03:30 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 22 2026 16:56:34 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 22 2026 16:56:34 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 22 2026 16:59:51 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 22 2026 17:03:00 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 22 2026 17:04:09 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 22 2026 17:04:09 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 22 2026 17:04:33 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 22 2026 17:06:09 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 22 2026 17:06:09 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 22 2026 17:30:34 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 22 2026 17:31:19 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'meryjane@gmail.com'.
+Wed Apr 22 2026 17:32:09 GMT+0530 (India Standard Time): A Hotel document with name 'karol bagh comfort stay' is update by: 'Jha, Manoj'.
+Wed Apr 22 2026 17:32:48 GMT+0530 (India Standard Time): A Hotel document with name 'candolim budget stay' is update by: 'Jha, Manoj'.
+Wed Apr 22 2026 17:34:29 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 22 2026 17:40:11 GMT+0530 (India Standard Time): A Hotel document with name 'connaught comfort inn' is update by: 'Jha, Manoj'.
+Wed Apr 22 2026 17:40:21 GMT+0530 (India Standard Time): A Hotel document with name 'sunrise grand hotel' is update by: 'meryjane@gmail.com'.
