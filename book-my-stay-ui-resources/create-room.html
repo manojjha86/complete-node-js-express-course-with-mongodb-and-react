@@ -1,0 +1,74 @@
+<div>
+        <div class="modal-backdrop"></div>
+
+        <div class="modal modal-lg" role="dialog" aria-modal="true">
+
+            <div class="modal-header">
+                <h3>Create New Room</h3>
+                <button class="icon-btn" aria-label="Close">✕</button>
+            </div>
+
+            <div class="modal-body">
+                <form class="form">
+
+                    <div class="form-group">
+                        <label>Room Image</label>
+
+                        <div class="image-upload">
+                            <label class="image-placeholder">
+                                <input type="file" accept="image/*" />
+                                <span class="image-text">
+                                    Click to upload room image
+                                </span>
+
+                                <img class="image-preview" alt="Room preview" />
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label>Room Title</label>
+                        <input type="text" placeholder="Deluxe King Room" required />
+                    </div>
+
+                    <div class="form-group">
+                        <label>Description</label>
+                        <textarea rows="3" placeholder="Spacious room with city view"></textarea>
+                    </div>
+
+                    <div class="grid-2">
+                        <div class="form-group">
+                            <label>Price / Night</label>
+                            <input type="number" placeholder="4500" min="0" required />
+                        </div>
+
+                        <div class="form-group">
+                            <label>Max Guests</label>
+                            <input type="number" placeholder="2" min="1" required />
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label>Room Numbers</label>
+
+                        <div class="room-number">
+                            <input type="number" placeholder="101" />
+                        </div>
+
+                        <button type="button" class="add-btn">
+                            + Add Room Number
+                        </button>
+                    </div>
+
+                    <input type="hidden" value="hotelObjectId" />
+
+                </form>
+            </div>
+
+            <div class="modal-footer">
+                <button class="btn btn-secondary">Cancel</button>
+                <button class="btn btn-primary">Create Room</button>
+            </div>
+
+        </div>
+    </div>

@@ -1,0 +1,49 @@
+/* Fullscreen Overlay */
+.app-loader-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: rgba(245, 245, 247, 0.8); /* slight frosted tint of your bg */
+  backdrop-filter: blur(4px); /* subtle glass effect */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  animation: fadeIn 0.2s ease-in-out;
+}
+
+/* Spinner */
+.app-loader-overlay .loader {
+  width: 64px;
+  height: 64px;
+  border: 6px solid var(--border);
+  border-top-color: var(--primary);
+  border-right-color: var(--primary);
+  border-radius: 50%;
+  animation: spin 0.9s ease-in-out infinite;
+  box-shadow: 0 4px 10px rgba(99, 91, 255, 0.2);
+}
+
+/* Loading Text */
+.app-loader-overlay p {
+  margin-top: 16px;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--text-dark);
+  opacity: 0.85;
+}
+
+/* Animations */
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0 }
+  to { opacity: 1 }
+}

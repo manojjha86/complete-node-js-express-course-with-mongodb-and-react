@@ -1,0 +1,54 @@
+<!-- SECURITY TAB -->
+            <section class="section-row tab-pane security-section" id="tab-security" aria-labelledby="security" hidden>
+                <div class="security-grid">
+                    <!-- Left hero -->
+                    <div class="security-hero">
+                        <h3 style="color: white">🔒 Account Security</h3>
+                        <p>Keep your account safe by using a strong, unique password. Avoid reusing passwords across
+                            multiple sites.</p>
+                        <ul>
+                            <li>Use at least 8 characters</li>
+                            <li>Include numbers and special symbols</li>
+                            <li>Change your password regularly</li>
+                        </ul>
+                        <div class="hero-illustration">
+                            <!-- Outline Shield: Better on busy/colored backgrounds -->
+                            <svg xmlns="http://www.w3.org/2000/svg" width="156" height="156" viewBox="0 0 24 24"
+                                role="img" aria-label="Security">
+                                <title>Security</title>
+                                <g fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"
+                                    stroke-linejoin="round">
+                                    <!-- Shield outline -->
+                                    <path
+                                        d="M12 2.5 18.8 5.5a1.5 1.5 0 0 1 .9 1.37V12c0 5.28-3.87 8.59-7.05 9.97a2.5 2.5 0 0 1-1.9 0C8.37 20.59 4.5 17.28 4.5 12V6.87A1.5 1.5 0 0 1 5.4 5.5L12 2.5Z" />
+                                    <!-- Check -->
+                                    <path d="m8.5 12.5 2.3 2.3 4.7-4.7" />
+                                </g>
+                            </svg>
+                        </div>
+                    </div>
+                    <!-- Right form card -->
+                    <div class="security-form-card">
+                        <h4>Update Password</h4>
+                        <p class="section-subtext">For your protection, choose a strong password that you don’t reuse
+                            elsewhere.</p>
+                        <form class="security-form" id="pwdForm" novalidate>
+                            <div class="form-field">
+                                <label for="curPwd">Current Password</label>
+                                <input id="curPwd" type="password" placeholder="Enter current password" required />
+                            </div>
+                            <div class="form-field">
+                                <label for="newPwd">New Password</label>
+                                <input id="newPwd" type="password" placeholder="Enter new password" minlength="8"
+                                    required />
+                            </div>
+                            <div class="form-field">
+                                <label for="cnfPwd">Confirm New Password</label>
+                                <input id="cnfPwd" type="password" placeholder="Re-enter new password" minlength="8"
+                                    required />
+                            </div>
+                            <button class="edit-link btn-submit narrow" type="submit">Update Password</button>
+                        </form>
+                    </div>
+                </div>
+            </section>

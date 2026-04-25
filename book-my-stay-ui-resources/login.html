@@ -1,0 +1,40 @@
+<main class="auth-shell">
+    <!-- Card -->
+    <section class="auth-card" aria-labelledby="login-title">
+      <h2 id="login-title" class="auth-title">Login Here</h2>
+
+      <form class="auth-form" novalidate>
+        <div class="field">
+          <label for="email">Email</label>
+          <input id="email" name="email" type="email" class="control" placeholder="you@example.com" required />
+          <small class="help">Use the email associated with your bookings.</small>
+        </div>
+
+        <div class="field">
+          <div class="label-row">
+            <label for="password">Password</label>
+            <a class="link-muted" href="#" aria-label="Forgot your password? Reset it">Forgot Password?</a>
+          </div>
+          <input id="password" name="password" type="password" class="control" placeholder="••••••••" required />
+        </div>
+
+        <div class="field checkbox">
+          <label class="check">
+            <input type="checkbox" name="remember" />
+            <span>Keep me signed in on this device</span>
+          </label>
+        </div>
+
+        <button class="btn-primary auth-submit" type="submit">Sign in</button>
+
+        <p class="alt-action">New to Book My Stay? <a href="signup.html">Create an account</a></p>
+
+        <div class="divider"><span>or</span></div>
+
+        <div class="social">
+          <button type="button" class="btn-ghost social-btn">Continue with Google</button>
+          <button type="button" class="btn-ghost social-btn">Continue with Microsoft</button>
+        </div>
+      </form>
+    </section>
+  </main>

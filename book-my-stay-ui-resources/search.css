@@ -1,0 +1,128 @@
+/* -------------------------------------------------------
+   SEARCH PANEL (OVERLAP)
+------------------------------------------------------- */
+.search-overlap {
+  position: relative;
+  top: -64px;
+  z-index: 5;
+}
+
+.search-card{
+  padding: 10px 30px 40px;
+  border-radius: 5px;
+  background: #ffffff;
+  border: 1px solid rgba(0,0,0,0.08);
+}
+
+.search-title{
+  font-size: 1.05rem;
+  font-weight: 800;
+  margin-bottom: 16px;
+}
+
+.search-grid{
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.search-header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.search-header .chip {
+  position: relative;
+  top: -2px; /* small visual alignment tweak */
+}
+
+
+.search-row {
+  display: flex;
+  gap: 8px;
+  align-items: flex-end;
+  flex-wrap: wrap; /* allows wrapping on tablets/mobiles */
+}
+
+.field-inline {
+  display: flex;
+  flex-direction: column;
+  min-width: 160px;
+  flex: 1;
+}
+
+
+.btn-search-inline {
+  padding: 14px 22px;
+  border-radius: 5px;
+  font-weight: 700;
+  color: white;
+  background: linear-gradient(135deg, var(--primary), var(--primary-600));
+  border: none;
+  cursor: pointer;
+  flex-shrink: 0;
+  height: 40px;
+  align-self: flex-end;
+}
+
+.btn-search-inline:hover {
+  background: linear-gradient(135deg, var(--primary-600), var(--primary));
+}
+
+
+@media (min-width: 720px){
+  .search-grid{
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.field{
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+label{
+  font-size: .85rem;
+  color: var(--muted);
+}
+
+.control{
+  padding: 12px;
+  border-radius: 5px;
+  background: #ffffff;
+  border: 1px solid rgba(0,0,0,0.15);
+  color: var(--text);
+  outline: none;
+  height: 40px;
+  padding: 10px 12px;
+}
+
+.control:hover{
+  border-color: rgba(0,0,0,0.25);
+}
+.control:focus{
+  border-color: var(--accent);
+  box-shadow: var(--ring);
+}
+
+.search-actions{
+  margin-top: 12px;
+  display: flex;
+  align-items: flex-end;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.btn-search{
+  padding: 12px 16px;
+  border-radius: 12px;
+  font-weight: 800;
+  color: white;
+  background: linear-gradient(135deg, var(--primary), var(--primary-600));
+  border: 1px solid rgba(0,0,0,0.04);
+  box-shadow: var(--shadow-md);
+}

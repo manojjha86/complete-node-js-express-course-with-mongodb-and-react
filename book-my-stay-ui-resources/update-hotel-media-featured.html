@@ -1,0 +1,29 @@
+<section class="panel panel-active">
+                    <div class="grid cols-2">
+                        <div class="field">
+                            <label class="label" for="images">Upload Images</label>
+                            <div class="image-uploader">
+                                <input class="input" type="file" accept="image/*" multiple />
+                                <div class="hint">Up to 4 previews shown; remaining will be counted.</div>
+                                <div class="image-previews"></div>
+                            </div>
+                        </div>
+
+                        <div class="field" style="align-self: start;">
+                            <label class="label">Featured</label>
+                            <div class="switch-wrapper">
+                                    <label class="switch">
+                                        <input type="checkbox" name="featured"
+                                            checked={hotelData?.featured || false}
+                                            onChange={(e) => updateField('featured', e.target.checked, setHoteldata)}
+                                        />
+                                        <span class="track">
+                                            <span class="thumb"></span>
+                                        </span>
+                                    </label>
+                                    <span>Mark as featured</span>
+                                </div>
+                            <div class="hint">Featured hotels can be prioritized in listings.</div>
+                        </div>
+                    </div>
+                </section>

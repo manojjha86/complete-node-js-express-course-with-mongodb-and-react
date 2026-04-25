@@ -1,0 +1,82 @@
+/*Confirm Modal Popup Component*/
+/* Backdrop */
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+  z-index: 999;
+}
+
+/* Modal Container */
+.modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.95);
+  background: #ffffff;
+  width: 420px;
+  border-radius: 12px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+  transition: all 0.25s ease;
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+/* Show animation */
+.modal.show {
+  transform: translate(-50%, -50%) scale(1);
+}
+
+/* Header */
+.modal-header {
+  padding: 10px 20px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.modal-header h3 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+/* Body */
+.modal-body {
+  padding: 20px;
+  font-size: 14px;
+  color: #4b5563;
+}
+
+/* Footer */
+.modal-footer {
+  padding: 16px 20px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+/* Buttons */
+.btn {
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.btn-cancel {
+  background: #f3f4f6;
+  color: #374151;
+}
+
+.btn-cancel:hover {
+  background: #e5e7eb;
+}
+
+.btn-ok {
+  background: #DC2626;
+  color: white;
+}
+
+.btn-ok:hover {
+  background: #B91C1C;
+}

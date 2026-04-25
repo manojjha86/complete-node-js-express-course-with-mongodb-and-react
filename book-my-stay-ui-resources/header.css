@@ -1,0 +1,121 @@
+/* -------------------------------------------------------
+   HEADER
+------------------------------------------------------- */
+.header{
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: rgba(255,255,255,0.7);
+  backdrop-filter: blur(8px) saturate(130%);
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+
+.nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 20px;
+}
+
+.brand{
+  display: flex;
+  align-items: center;
+  font-weight: 800;
+  gap: 10px;
+}
+
+.logo{
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
+  background: conic-gradient(from 210deg, var(--accent), var(--primary));
+  box-shadow: inset 0 0 10px rgba(255,255,255,0.3), 0 10px 20px rgba(14,165,233,0.25);
+}
+
+.nav-links{
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.nav-links a {
+  color: var(--muted);
+  font-weight: 500;
+}
+.nav-links a:hover {
+  color: var(--primary);
+}
+
+.btn{
+    padding: 10px 25px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+.btn-login{
+    background-color: var(--primary);
+    border: var(--primary) 1.5px solid;
+    color: white;
+}
+.btn-signup{
+    background: transparent;
+    color: var(--primary);
+    border: var(--primary) 1.5px solid;
+}
+
+
+/* ===== User chip (avatar / initials) ===== */
+.user-chip{
+  position: relative;
+  width: 36px; height: 36px;
+  border-radius: 50%;
+  background: var(--primary, #6b63ff);
+  color: #fff;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 14px;
+  overflow: hidden;
+  flex-shrink: 0;
+  border: 1px solid var(--border, #e5e5ea);
+}
+
+/* Show initials by default; when has-image is present, show the image */
+.user-chip .avatar-initials { display: inline-block; line-height: 1; color: white}
+.user-chip .avatar-img      { display: none; width: 100%; height: 100%; object-fit: cover; }
+
+.user-chip.has-image .avatar-initials { display: none; }
+.user-chip.has-image .avatar-img      { display: block; }
+
+/* ===== User name & Logout ===== */
+.user-name{
+  font-size: 14px;
+  color: var(--text-dark, #1d1d1f);
+  font-weight: 600;
+  white-space: nowrap;
+  max-width: 220px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Logout button (subtle outline to match your theme) */
+.btn-logout{
+  background: #fff;
+  color: var(--text-dark, #1d1d1f);
+  border: 1px solid var(--border, #e5e5ea);
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all .15s ease;
+}
+.btn-logout:hover{
+  border-color: var(--primary, #6b63ff);
+  color: var(--primary, #6b63ff);
+}
+
+/* Optional: tighten layout on narrow screens */
+@media (max-width: 640px){
+  .user-name{ display: none; } /* keep header clean on small devices; avatar + logout only */
+}

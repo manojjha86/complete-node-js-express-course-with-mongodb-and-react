@@ -1,0 +1,78 @@
+/* -------------------------------------------------------
+   BANNER
+------------------------------------------------------- */
+.banner {
+  position: relative;
+  min-height: 56vh;
+
+  /* Clean dark gradient background */
+  background:
+    linear-gradient(
+      180deg,
+      #0d1321 0%,           /* deep navy */
+      #131b2e 100%          /* slightly lighter navy */
+    );
+
+  display: flex;
+  align-items: flex-end;
+  border-bottom: 1px solid rgba(0,0,0,0.10);
+}
+
+.banner-inner {
+  padding: 64px 20px 120px;
+}
+
+.eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: .82rem;
+
+  background: rgba(255,255,255,0.12);
+  border: 1px solid rgba(255,255,255,0.20);
+  color: #ffffff;
+}
+
+.banner h1 {
+  color: #ffffff;
+  text-shadow: 0 4px 18px rgba(52, 84, 209, 0.55);
+}
+
+.banner p {
+  color: rgba(255,255,255,0.85);
+}
+
+
+.hero-actions{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 14px;
+}
+
+.btn-primary{
+  padding: 12px 18px;
+  border-radius: 12px;
+  font-weight: 700;
+  color: white;
+  background: linear-gradient(135deg, var(--primary), var(--primary-600));
+  border: 1px solid rgba(0,0,0,0.04);
+  box-shadow: var(--shadow-md);
+}
+.btn-primary:hover{
+  background: linear-gradient(135deg, var(--primary-600), var(--primary));
+}
+
+.btn-ghost{
+  padding: 12px 16px;
+  border-radius: 12px;
+  background: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.25);
+  color: white;
+}
+
+.btn-ghost:hover {
+  background: rgba(255,255,255,0.25);
+}

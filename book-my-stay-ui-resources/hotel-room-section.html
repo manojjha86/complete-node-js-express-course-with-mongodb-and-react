@@ -1,0 +1,61 @@
+<section id="rooms" class="rooms-section" aria-labelledby="rooms-title">
+      <div class="rooms-head">
+        <h2 id="rooms-title">Rooms & Rates</h2>
+        <form class="availability-bar" aria-label="Availability">
+          <div class="field-inline">
+            <label for="avl-checkin">Check-in</label>
+            <input id="avl-checkin" type="date" class="control" />
+          </div>
+          <div class="field-inline">
+            <label for="avl-checkout">Check-out</label>
+            <input id="avl-checkout" type="date" class="control" />
+          </div>
+          <div class="field-inline">
+            <label for="avl-guests">Guests</label>
+            <select id="avl-guests" class="control">
+              <option>1</option>
+              <option selected>2</option>
+              <option>3</option>
+              <option>4</option>
+            </select>
+          </div>
+          <button class="btn-primary" type="submit">Update</button>
+        </form>
+      </div>
+
+      <article class="room-card">
+        <div class="room-thumb">
+          <img src="https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1200&auto=format&fit=crop"
+            alt="Deluxe King Room">
+        </div>
+        <div class="room-body">
+          <header class="room-head">
+            <h3 class="room-name">Deluxe King Room</h3>
+            <span class="chip">Free Cancellation</span>
+          </header>
+          <p class="room-desc">
+            32 m² • King bed • City view • Work desk • Rain shower
+          </p>
+          <div class="rate-notes">
+            <span class="note good">Pay at property</span>
+            <span class="note neutral">No prepayment needed</span>
+          </div>
+        </div>
+        <div class="room-cta">
+          <div class="price-stack">
+            <div class="per-night"><span class="amt">₹7,200</span><small>/night</small></div>
+            <div class="total">₹14,400 total (2 nights)</div>
+          </div>
+          <div class="qty-book">
+            <select class="control" aria-label="Rooms">
+              <option>1 room</option>
+              <option>2 rooms</option>
+              <option>3 rooms</option>
+            </select>
+            <button class="btn-primary">Book</button>
+          </div>
+          <small class="availability">Only 3 rooms left</small>
+        </div>
+      </article>
+
+    </section>

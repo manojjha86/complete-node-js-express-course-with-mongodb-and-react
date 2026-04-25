@@ -1,0 +1,53 @@
+<!-- SEARCH PANEL (OVERLAP BELOW BANNER) -->
+    <section class="search-overlap">
+        <div class="container">
+            <form class="search-card" id="search" role="search" aria-labelledby="search-title">
+
+                <div class="search-header">
+                    <h2 id="search-title" class="search-title">Search for Hotels</h2>
+                    <span class="chip">No booking fees</span>
+                </div>
+
+                <div class="search-row">
+                    <div class="field-inline">
+                        <label for="checkin">Check‑in</label>
+                        <input id="checkin" name="checkin" type="date" class="control" required />
+                    </div>
+
+                    <div class="field-inline">
+                        <label for="checkout">Check‑out</label>
+                        <input id="checkout" name="checkout" type="date" class="control" required />
+                    </div>
+
+                    <div class="field-inline">
+                        <label for="persons">Guests</label>
+                        <select id="persons" name="persons" class="control">
+                            <option value="1">1 person</option>
+                            <option value="2" selected>2 persons</option>
+                            <option value="3">3 persons</option>
+                            <option value="4">4 persons</option>
+                            <option value="5">5 persons</option>
+                            <option value="6">6 persons</option>
+                        </select>
+                    </div>
+
+                    <div class="field-inline">
+                        <label for="city">City</label>
+                        <input id="city" name="city" type="text" class="control"
+                            placeholder="e.g., Bengaluru, Goa, Delhi" list="city-suggest" />
+                        <datalist id="city-suggest">
+                            <option value="Bengaluru"></option>
+                            <option value="Mumbai"></option>
+                            <option value="Delhi"></option>
+                            <option value="Chennai"></option>
+                            <option value="Goa"></option>
+                            <option value="Hyderabad"></option>
+                        </datalist>
+                    </div>
+
+                    <button class="btn-search-inline" type="submit">Search</button>
+                </div>
+
+            </form>
+        </div>
+    </section>

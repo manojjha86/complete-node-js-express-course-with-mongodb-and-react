@@ -1,0 +1,160 @@
+<!-- ===== PREFERENCES TAB ===== -->
+            <section class="section-row tab-pane" id="tab-preferences" aria-labelledby="preferences" hidden>
+                <div class="pref-grid">
+
+                    <!-- Notifications -->
+                    <article class="pref-card">
+                        <header class="card-header">
+                            <h4 class="card-title">Notifications</h4>
+                            <p class="card-desc">Choose how we keep you updated about activity and offers.</p>
+                        </header>
+
+                        <div class="card-body">
+                            <div class="pref-row">
+                                <label class="pref-label" for="prefEmailActivity">
+                                    <span>
+                                        <strong>Account & activity</strong>
+                                        <small class="help-text">Security alerts, sign‑ins, bookings, important
+                                            updates.</small>
+                                    </span>
+                                    <label class="switch">
+                                        <input id="prefEmailActivity" type="checkbox" />
+                                        <span class="slider"></span>
+                                    </label>
+                                </label>
+                            </div>
+
+                            <div class="pref-row">
+                                <label class="pref-label" for="prefEmailMarketing">
+                                    <span>
+                                        <strong>Marketing emails</strong>
+                                        <small class="help-text">News, product updates, recommendations.</small>
+                                    </span>
+                                    <label class="switch">
+                                        <input id="prefEmailMarketing" type="checkbox" />
+                                        <span class="slider"></span>
+                                    </label>
+                                </label>
+                            </div>
+
+                            <div class="pref-row">
+                                <label class="pref-label" for="prefSmsAlerts">
+                                    <span>
+                                        <strong>SMS alerts</strong>
+                                        <small class="help-text">Critical notifications & time‑sensitive
+                                            messages.</small>
+                                    </span>
+                                    <label class="switch">
+                                        <input id="prefSmsAlerts" type="checkbox" />
+                                        <span class="slider"></span>
+                                    </label>
+                                </label>
+                            </div>
+
+                            <div class="pref-row">
+                                <label class="pref-label" for="prefPush">
+                                    <span>
+                                        <strong>Push notifications</strong>
+                                        <small class="help-text">Alerts on supported devices.</small>
+                                    </span>
+                                    <label class="switch">
+                                        <input id="prefPush" type="checkbox" />
+                                        <span class="slider"></span>
+                                    </label>
+                                </label>
+                            </div>
+
+                            <div class="pref-row">
+                                <div class="pref-subtitle">Digest frequency</div>
+                                <div class="pill-group" role="radiogroup" aria-label="Digest frequency">
+                                    <label class="pill">
+                                        <input type="radio" name="prefDigest" value="realtime">
+                                        <span>Real‑time</span>
+                                    </label>
+                                    <label class="pill">
+                                        <input type="radio" name="prefDigest" value="daily">
+                                        <span>Daily</span>
+                                    </label>
+                                    <label class="pill">
+                                        <input type="radio" name="prefDigest" value="weekly">
+                                        <span>Weekly</span>
+                                    </label>
+                                    <label class="pill">
+                                        <input type="radio" name="prefDigest" value="off">
+                                        <span>Off</span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- Privacy -->
+                    <article class="pref-card">
+                        <header class="card-header">
+                            <h4 class="card-title">Privacy</h4>
+                            <p class="card-desc">Control your visibility and how others find you.</p>
+                        </header>
+                        <div class="card-body">
+                            <div class="pref-row">
+                                <label class="pref-label" for="prefProfilePublic">
+                                    <span>
+                                        <strong>Public profile</strong>
+                                        <small class="help-text">Allow non‑members to view a limited profile
+                                            page.</small>
+                                    </span>
+                                    <label class="switch">
+                                        <input id="prefProfilePublic" type="checkbox" />
+                                        <span class="slider"></span>
+                                    </label>
+                                </label>
+                            </div>
+
+                            <div class="pref-row">
+                                <label class="pref-label" for="prefShowEmail">
+                                    <span>
+                                        <strong>Show email to connections</strong>
+                                        <small class="help-text">Only visible to your approved connections.</small>
+                                    </span>
+                                    <label class="switch">
+                                        <input id="prefShowEmail" type="checkbox" />
+                                        <span class="slider"></span>
+                                    </label>
+                                </label>
+                            </div>
+
+                            <div class="pref-row">
+                                <label class="pref-label" for="prefShowPhone">
+                                    <span>
+                                        <strong>Show phone to connections</strong>
+                                        <small class="help-text">Only visible to your approved connections.</small>
+                                    </span>
+                                    <label class="switch">
+                                        <input id="prefShowPhone" type="checkbox" />
+                                        <span class="slider"></span>
+                                    </label>
+                                </label>
+                            </div>
+
+                            <div class="pref-row">
+                                <label class="pref-label" for="prefSearchIndex">
+                                    <span>
+                                        <strong>Search engine indexing</strong>
+                                        <small class="help-text">Let search engines index your public profile.</small>
+                                    </span>
+                                    <label class="switch">
+                                        <input id="prefSearchIndex" type="checkbox" />
+                                        <span class="slider"></span>
+                                    </label>
+                                </label>
+                            </div>
+                        </div>
+                    </article>
+
+                </div>
+
+                <!-- Actions -->
+                <div class="pref-actions">
+                    <button class="btn-secondary" type="button" id="btnPrefsReset">Reset to defaults</button>
+                    <button class="edit-link" type="button" id="btnPrefsSave" disabled>Save changes</button>
+                </div>
+            </section>

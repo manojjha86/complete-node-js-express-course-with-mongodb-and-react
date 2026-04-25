@@ -1,0 +1,70 @@
+<!-- Cover -->
+    <section class="cover-photo"
+        style="background-image:url('https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?q=80&w=1200&auto=format&fit=crop');">
+        <button class="upload-cover-btn" type="button" aria-label="Change cover photo">Change Cover</button>
+    </section>
+
+    <!-- Header -->
+    <header class="profile-header-flat">
+        <div class="avatar-container">
+            <!-- Initials avatar from your JSX "MJ" -->
+            <div class="avatar-flat" id="avatarInitials">MJ</div>
+            <button class="upload-avatar-btn" type="button" aria-label="Upload avatar">✚</button>
+        </div>
+
+        <div class="profile-main-info">
+            <h2 id="fullName">John Smith</h2>
+            <p id="location">Bangalore, India</p>
+            <p><a id="email" href="mailto:johnsmith@gmail.com">johnsmith@gmail.com</a></p>
+            <p id="phone">+91 9988656765</p>
+            <p id="memberSince">Member since Jan 14, 2022</p>
+        </div>
+
+        <!-- Update profile button -->
+        <button class="edit-link" id="btnEditProfile" type="button">Edit Profile</button>
+    </header>
+
+    <!-- BIO -->
+    <section class="profile-personal-bio">
+        <div class="section-header">
+            <h3>About Me</h3>
+            <button class="inline-btn" id="btnEditBio" type="button">Edit Bio</button>
+        </div>
+
+        <p id="bioText" class="bio">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
+            ea commodo consequat.
+        </p>
+        <!-- If empty bio is desired initially, swap the paragraph above to this one:
+    <p id="bioText" class="bio-empty">You haven't added a bio yet.</p>
+    -->
+    </section>
+
+    <!-- PERSONAL INFO -->
+    <section class="profile-personal-info">
+        <div class="section-header">
+            <h3>Personal Information</h3>
+            <button class="inline-btn" id="btnEditProfile" type="button">Edit Profile</button>
+        </div>
+        <div class="info-grid">
+            <div>
+                <strong>Name:</strong> <span id="piName">John Smith</span>
+            </div>
+            <div>
+                <strong>Email:</strong> <span id="piEmail">johnsmith@gmail.com</span>
+            </div>
+            <div>
+                <strong>Phone:</strong> <span id="piPhone">+91 8877565645</span>
+            </div>
+            <div>
+                <strong>City:</strong> <span id="piCity">Mumbai, India</span>
+            </div>
+            <div>
+                <strong>Member Since:</strong> <span id="piMemberSince">Jan 12, 2022</span>
+            </div>
+            <div>
+                <strong>Status:</strong> <span id="piStatus">Active User</span>
+            </div>
+        </div>
+    </section>

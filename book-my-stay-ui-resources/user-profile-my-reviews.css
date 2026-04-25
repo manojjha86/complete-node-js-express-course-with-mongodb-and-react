@@ -1,0 +1,136 @@
+* =========================================================
+   REVIEW CARDS – HORIZONTAL
+   Matches booking card visual language
+   ========================================================= */
+
+.review-cards--horizontal{
+  display:flex;
+  flex-direction:column;
+  gap:16px;
+}
+
+/* Shell */
+.review-card{
+  background:#fff;
+  border:1px solid var(--border);
+  border-radius:12px;
+  overflow:hidden;
+  display:flex;
+  flex-direction:column;
+  box-shadow:0 1px 1px rgba(0,0,0,.03);
+}
+
+/* Horizontal layout: media left, content right */
+.review-card--h{
+  display:grid;
+  grid-template-columns: 220px 1fr;    /* image column narrower than bookings */
+  min-height: 150px;                    /* compact height */
+  border-radius:10px;                   /* align with compact booking cards */
+}
+.review-card--h .review-media{
+  background:#f4f4fb;
+  min-height:150px;
+  height:100%;
+}
+.review-card--h .review-media img{
+  width:100%; height:100%; object-fit:cover; display:block;
+}
+
+/* Body */
+.review-body{
+  padding:12px 14px;
+  display:flex;
+  flex-direction:column;
+  gap:8px;
+}
+
+/* Headline row */
+.review-head{
+  display:flex;
+  align-items:flex-start;
+  justify-content:space-between;
+  gap:10px;
+}
+.review-title{
+  display:flex;
+  flex-direction:column;
+  gap:2px;
+}
+.review-title .hotel-name{
+  margin:0;
+  font-size:15px;               /* slightly smaller than bookings */
+  font-weight:700;
+  color:var(--text-dark);
+  line-height:1.25;
+}
+.review-date{
+  font-size:12px;
+  color:var(--text-light);
+}
+
+/* Stars (text-based for zero-dependency; you can swap to SVG later) */
+.stars span{
+  display:inline-block;
+  font-size:14px;
+  line-height:1;
+  color:#f59e0b;                 /* amber */
+  background:#fff7e6;
+  border:1px solid #fde68a;
+  padding:3px 6px;
+  border-radius:6px;
+}
+.stars .stars-4{ letter-spacing: 0.5px; } /* style hint for 4/5 */
+
+/* Content */
+.review-text{
+  margin:2px 0 0 0;
+  font-size:13.5px;
+  color:var(--text-dark);
+}
+
+/* Tags (chips) */
+.review-tags{
+  margin:0;
+  padding:0;
+  list-style:none;
+  display:flex;
+  flex-wrap:wrap;
+  gap:6px;
+}
+.review-tags li{
+  font-size:12px;
+  color:var(--primary);
+  background:#f6f6ff;
+  border:1px dashed var(--border);
+  padding:4px 8px;
+  border-radius:999px;
+}
+
+/* Footer actions (align right) */
+.review-foot{
+  margin-top:auto;               /* push to bottom of card */
+  display:flex;
+  justify-content:flex-end;
+  gap:8px;
+}
+
+/* Reuse existing buttons styles; make them compact */
+.review-foot .btn-outline,
+.review-foot .btn-danger{
+  padding:8px 10px;
+  font-size:13px;
+}
+/* Responsive */
+@media (max-width: 900px){
+  .review-card--h{ grid-template-columns: 180px 1fr; }
+}
+@media (max-width: 640px){
+  .review-card--h{
+    display:flex;
+    flex-direction:column;       /* stack on small screens */
+    min-height:0;
+  }
+  .review-card--h .review-media{
+    height:160px; min-height:160px;
+  }
+}

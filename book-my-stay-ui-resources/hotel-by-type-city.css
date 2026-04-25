@@ -1,0 +1,111 @@
+/* -------------------------------------------------------
+   BACKGROUND CARDS (CITY & TYPE)
+------------------------------------------------------- */
+.bg-card{
+  position: relative;
+  min-height: 180px;
+  border-radius: 5px;
+  background: #ffffff;
+  border: 1px solid rgba(0,0,0,0.10);
+  overflow: hidden;
+  /* box-shadow: var(--shadow-md); */
+  display: block;
+}
+
+.bg-card::before{
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: var(--img);
+  background-size: cover;
+  background-position: center;
+  transform: scale(1.03);
+  z-index: -1;
+}
+
+.bg-card::after{
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(0,0,0,0.00) 30%, rgba(0,0,0,0.45) 85%);
+}
+
+.bg-card .info{
+  position: absolute;
+  left: 14px;
+  right: 14px;
+  bottom: 12px;
+  display: flex;
+  justify-content: space-between;
+  /* color: white; */
+}
+
+.badge{
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(0,0,0,0.55);
+  color: white;
+  font-weight: 600;
+}
+
+/* Layout grids */
+.city-grid{
+  display: grid;
+  gap: 16px;
+}
+@media (min-width: 700px){
+  .city-grid{
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.type-grid{
+  display: grid;
+  gap: 16px;
+  grid-template-columns: 1fr 1fr;
+}
+@media (min-width: 900px){
+  .type-grid{
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+/* -------------------------------------------------------
+   PROMO / CTA CARD
+------------------------------------------------------- */
+.promo{
+  width: 100%;
+  margin-top: 50px;
+  padding: 28px;
+  border-radius: 5px;
+  background: rgba(255,255,255,0.75);
+  border: 1px solid rgba(0,0,0,0.08);
+  /* box-shadow: var(--shadow-lg); */
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.promo h3{
+  margin: 0 0 6px;
+  font-size: clamp(1.1rem, 2vw, 1.6rem);
+}
+
+.promo p{
+  margin: 0;
+  color: var(--muted);
+}
+
+.promo > div:first-child{
+  flex: 1 1 420px;
+  max-width: 780px;
+}
+
+.promo .actions{
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}

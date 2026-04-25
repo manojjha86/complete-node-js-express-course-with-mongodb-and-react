@@ -1,0 +1,226 @@
+<main class="container" style="padding-top:20px; padding-bottom:40px;">
+    <!-- Page head -->
+    <div class="page-head">
+      <h1 class="page-title">Hotels</h1>
+      <span class="chip">128 results</span>
+    </div>
+
+    <!-- Layout: Sidebar (filters) + Results -->
+    <section class="results-layout">
+      <!-- Sidebar -->
+      <aside class="filters sidebar-sticky" aria-label="Filters">
+        <form>
+          <!-- Date Range -->
+          <fieldset class="filter-group">
+            <legend class="filter-title">Date range</legend>
+            <div class="filter-row-2">
+              <label for="f-checkin">Check‑in</label>
+              <input id="f-checkin" type="date" class="control" />
+              <label for="f-checkout">Check‑out</label>
+              <input id="f-checkout" type="date" class="control" />
+            </div>
+          </fieldset>
+
+          <!-- City -->
+          <fieldset class="filter-group">
+            <legend class="filter-title">City</legend>
+            <input id="f-city" type="text" class="control" placeholder="e.g., Bengaluru, Goa" list="city-list" />
+            <datalist id="city-list">
+              <option value="Bengaluru"></option>
+              <option value="Mumbai"></option>
+              <option value="Delhi"></option>
+              <option value="Chennai"></option>
+              <option value="Goa"></option>
+              <option value="Hyderabad"></option>
+              <option value="Jaipur"></option>
+              <option value="Udaipur"></option>
+            </datalist>
+          </fieldset>
+
+          <!-- Rating -->
+          <fieldset class="filter-group">
+            <legend class="filter-title">Rating</legend>
+            <div class="rating-filter">
+              <label><input type="checkbox" /> <span class="stars">★★★★★</span> &nbsp;4.5+</label>
+              <label><input type="checkbox" /> <span class="stars">★★★★☆</span> &nbsp;4.0+</label>
+              <label><input type="checkbox" /> <span class="stars">★★★☆☆</span> &nbsp;3.5+</label>
+              <label><input type="checkbox" /> <span class="stars">★★☆☆☆</span> &nbsp;3.0+</label>
+            </div>
+          </fieldset>
+
+          <!-- Price Range -->
+          <fieldset class="filter-group">
+            <legend class="filter-title">Price (₹ / night)</legend>
+            <div class="filter-row-2">
+              <label for="price-min">Min</label>
+              <input id="price-min" type="number" class="control" placeholder="1000" min="0" step="100" />
+              <label for="price-max">Max</label>
+              <input id="price-max" type="number" class="control" placeholder="12000" min="0" step="100" />
+            </div>
+          </fieldset>
+
+          <!-- Amenities -->
+          <fieldset class="filter-group">
+            <legend class="filter-title">Amenities</legend>
+            <div class="amenity-filter">
+              <label><input type="checkbox" /> Free Wi‑Fi</label>
+              <label><input type="checkbox" /> Pool</label>
+              <label><input type="checkbox" /> Breakfast</label>
+              <label><input type="checkbox" /> Parking</label>
+              <label><input type="checkbox" /> AC</label>
+              <label><input type="checkbox" /> Gym</label>
+              <label><input type="checkbox" /> Spa</label>
+            </div>
+          </fieldset>
+
+          <div class="filter-actions">
+            <button type="submit" class="btn-primary">Apply Filters</button>
+            <button type="reset" class="btn-ghost">Reset</button>
+          </div>
+        </form>
+      </aside>
+
+      <!-- Results -->
+      <section class="hotel-list" aria-label="Search results">
+        <!-- Card 1 -->
+        <article class="hotel-card">
+          <div class="hotel-thumb">
+            <img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1200&auto=format&fit=crop" alt="Grand Vista Suites exterior" />
+          </div>
+          <div class="hotel-content">
+            <header class="hotel-head">
+              <h3 class="hotel-title">Grand Vista Suites</h3>
+              <div class="hotel-rating" aria-label="Rating 4.6 out of 5">
+                <span class="stars">★★★★☆</span>
+                <span class="rating-text">4.6 (1,234)</span>
+              </div>
+            </header>
+            <p class="hotel-desc">
+              Contemporary luxury with skyline views, rooftop pool, and executive lounge access.
+            </p>
+            <div class="hotel-meta">
+              <span class="meta-city">Mumbai</span>
+              <div class="amenities">
+                <span class="amenity">Wi‑Fi</span>
+                <span class="amenity">Pool</span>
+                <span class="amenity">Breakfast</span>
+                <span class="amenity">Parking</span>
+              </div>
+            </div>
+          </div>
+          <div class="hotel-cta">
+            <div class="price">
+              <span class="amount">₹7,200</span><small>/night</small>
+            </div>
+            <a href="#" class="btn-primary">View Details</a>
+          </div>
+        </article>
+
+        <!-- Card 2 -->
+        <article class="hotel-card">
+          <div class="hotel-thumb">
+            <img src="https://images.unsplash.com/photo-1529307474719-3d0a417aaf8f?q=80&w=1200&auto=format&fit=crop" alt="Tech Park Inn lobby" />
+          </div>
+          <div class="hotel-content">
+            <header class="hotel-head">
+              <h3 class="hotel-title">Tech Park Inn</h3>
+              <div class="hotel-rating" aria-label="Rating 4.3 out of 5">
+                <span class="stars">★★★★☆</span>
+                <span class="rating-text">4.3 (892)</span>
+              </div>
+            </header>
+            <p class="hotel-desc">
+              Business‑friendly rooms near IT hubs, fast Wi‑Fi, workspace desks, and shuttle services.
+            </p>
+            <div class="hotel-meta">
+              <span class="meta-city">Bengaluru</span>
+              <div class="amenities">
+                <span class="amenity">Wi‑Fi</span>
+                <span class="amenity">Gym</span>
+                <span class="amenity">Breakfast</span>
+              </div>
+            </div>
+          </div>
+          <div class="hotel-cta">
+            <div class="price">
+              <span class="amount">₹5,400</span><small>/night</small>
+            </div>
+            <a href="#" class="btn-primary">View Details</a>
+          </div>
+        </article>
+
+        <!-- Card 3 -->
+        <article class="hotel-card">
+          <div class="hotel-thumb">
+            <img src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=1200&auto=format&fit=crop" alt="Ocean Pearl Resort beachside" />
+          </div>
+          <div class="hotel-content">
+            <header class="hotel-head">
+              <h3 class="hotel-title">Ocean Pearl Resort</h3>
+              <div class="hotel-rating" aria-label="Rating 4.8 out of 5">
+                <span class="stars">★★★★★</span>
+                <span class="rating-text">4.8 (2,031)</span>
+              </div>
+            </header>
+            <p class="hotel-desc">
+              Beachfront villas with private decks, spa, and seafood dining by the shore.
+            </p>
+            <div class="hotel-meta">
+              <span class="meta-city">Goa</span>
+              <div class="amenities">
+                <span class="amenity">Wi‑Fi</span>
+                <span class="amenity">Pool</span>
+                <span class="amenity">Spa</span>
+                <span class="amenity">Breakfast</span>
+              </div>
+            </div>
+          </div>
+          <div class="hotel-cta">
+            <div class="price">
+              <span class="amount">₹9,100</span><small>/night</small>
+            </div>
+            <a href="#" class="btn-primary">View Details</a>
+          </div>
+        </article>
+
+        <!-- Card 4 -->
+        <article class="hotel-card">
+          <div class="hotel-thumb">
+            <img src="https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?q=80&w=1200&auto=format&fit=crop" alt="Heritage Court facade" />
+          </div>
+          <div class="hotel-content">
+            <header class="hotel-head">
+              <h3 class="hotel-title">Heritage Court</h3>
+              <div class="hotel-rating" aria-label="Rating 4.2 out of 5">
+                <span class="stars">★★★★☆</span>
+                <span class="rating-text">4.2 (648)</span>
+              </div>
+            </header>
+            <p class="hotel-desc">
+              Classic charm with modern comfort near historic landmarks and vibrant bazaars.
+            </p>
+            <div class="hotel-meta">
+              <span class="meta-city">Jaipur</span>
+              <div class="amenities">
+                <span class="amenity">Wi‑Fi</span>
+                <span class="amenity">Breakfast</span>
+                <span class="amenity">Parking</span>
+              </div>
+            </div>
+          </div>
+          <div class="hotel-cta">
+            <div class="price">
+              <span class="amount">₹6,300</span><small>/night</small>
+            </div>
+            <a href="#" class="btn-primary">View Details</a>
+          </div>
+        </article>
+
+        <!-- Pagination (optional) -->
+        <div class="list-pagination">
+          <button class="btn-ghost">Previous</button>
+          <button class="btn-primary">Next</button>
+        </div>
+      </section>
+    </section>
+  </main>

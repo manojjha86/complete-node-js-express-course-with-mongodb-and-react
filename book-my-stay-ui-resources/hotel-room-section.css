@@ -1,0 +1,206 @@
+/* Rooms & Rates */
+.rooms-section {
+  margin-top: 22px;
+}
+
+.rooms-head {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 8px;
+}
+
+.availability-bar {
+  display: flex;
+  align-items: flex-end;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.availability-bar .control {
+  height: 40px;
+}
+
+.availability-bar .btn-primary {
+  height: 40px;
+  padding: 10px 16px;
+}
+
+/* Room card (horizontal) */
+.room-card {
+  display: grid;
+  grid-template-columns: 220px 1fr 240px;
+  gap: 14px;
+  align-items: stretch;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  background: #fff;
+  border-radius: 5px;
+  padding: 12px;
+  margin-bottom: 12px;
+}
+
+@media (max-width: 920px) {
+  .room-card {
+    grid-template-columns: 1fr;
+  }
+}
+
+.room-thumb {
+  border-radius: 4px;
+  overflow: hidden;
+  background: #e5e7eb;
+  height: 160px;
+}
+
+.room-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.room-body {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.room-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.room-name {
+  margin: 0;
+  font-size: 1.02rem;
+}
+
+.room-desc {
+  margin: 0;
+  color: var(--muted);
+}
+
+.room-amenities {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.room-amenities li {
+  padding: 4px 8px;
+  border-radius: 999px;
+  background: #f1f5f9;
+  color: #0f172a;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  font-size: .82rem;
+}
+
+.rate-notes {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.note {
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: .78rem;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.note.good {
+  background: #ecfdf5;
+  color: #065f46;
+  border-color: #a7f3d0;
+}
+
+.note.neutral {
+  background: #eff6ff;
+  color: #1e40af;
+  border-color: #bfdbfe;
+}
+
+.note.warn {
+  background: #fff7ed;
+  color: #9a3412;
+  border-color: #fed7aa;
+}
+
+.room-cta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.price-stack {
+  text-align: right;
+}
+
+.per-night .amt {
+  color: var(--primary);
+  font-weight: 800;
+  font-size: 1.05rem;
+}
+
+.per-night small {
+  color: var(--muted);
+}
+
+.total {
+  color: var(--muted);
+  font-size: .92rem;
+}
+
+.qty-book {
+  display: flex;
+  gap: 8px;
+}
+
+.qty-book .control {
+  height: 40px;
+  min-width: 110px;
+}
+
+.qty-book .btn-primary {
+  height: 40px;
+}
+
+.availability {
+  color: #b91c1c;
+}
+
+.availability.in-stock {
+  color: #15803d;
+}
+
+.availability.low {
+  color: #b45309;
+}
+
+.control {
+  padding: 12px;
+  border-radius: 5px;
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  color: var(--text);
+  outline: none;
+  height: 40px;
+  padding: 10px 12px;
+}
+
+.control:hover {
+  border-color: rgba(0, 0, 0, 0.25);
+}
+
+.control:focus {
+  border-color: var(--accent);
+  box-shadow: var(--ring);
+}

@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+/* -------------------------------------------------------
+   GLOBAL LIGHT THEME
+------------------------------------------------------- */
+:root {
+  /* Light theme base */
+  --bg: #f8fafc;               /* main page background */
+  --bg-soft: #ffffff;          /* cards, sections */
+  --card: #ffffff;
+
+  /* Brand Colors */
+--primary: #3454d1;       /* luxury royal blue */
+--primary-600: #2a44b3;
+--accent: #739dff;        /* soft light-blue accent */
+
+  /* Text Colors */
+  --text: #1e293b;             /* slate-800 */
+  --muted: #64748b;            /* slate-500 */
+
+  /* Effects */
+  --ring: 0 0 0 3px rgba(14,165,233,0.35);
+  --radius: 16px;
+
+  /* Shadows */
+  --shadow-lg: 0 15px 40px rgba(0,0,0,0.12);
+  --shadow-md: 0 10px 24px rgba(0,0,0,0.10);
+
+  /* Glass for overlays */
+  --glass: rgba(255,255,255,0.65);
+
+  color-scheme: light;
+}
+
+/* -------------------------------------------------------
+   GLOBAL RESET & BODY
+------------------------------------------------------- */
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+
+
+body {
+  margin: 0;
+  font-family: 'Poppins', ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: var(--text);
+  line-height: 1.5;
+  background: #f8fafc;   /* clean light background */
+}
+
+
+a { color: inherit; text-decoration: none; }
+img { max-width: 100%; display: block; }
+
+.container {
+  max-width: 1250px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
